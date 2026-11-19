@@ -1,31 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="864" height="216" viewBox="0 0 864 216" role="img" aria-labelledby="title">
   <title id="title">A grid of independently changing emojis</title>
   <defs>
-    <g id="emojis" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central">
-      <text x="12" y="12">🚀</text>
-      <text x="12" y="36">✨</text>
-      <text x="12" y="60">🔥</text>
-      <text x="12" y="84">🎯</text>
-      <text x="12" y="108">🤖</text>
-      <text x="12" y="132">⚡</text>
-      <text x="12" y="156">📦</text>
-      <text x="12" y="180">🧠</text>
-      <text x="12" y="204">🎉</text>
-      <text x="12" y="228">🛠️</text>
-      <text x="12" y="252">💡</text>
-      <text x="12" y="276">🐛</text>
-      <text x="12" y="300">🔍</text>
-      <text x="12" y="324">⚙️</text>
-      <text x="12" y="348">📚</text>
-      <text x="12" y="372">✅</text>
-      <text x="12" y="396">🌟</text>
-      <text x="12" y="420">🧪</text>
-      <text x="12" y="444">🎨</text>
-      <text x="12" y="468">🚧</text>
-      <text x="12" y="492">🔮</text>
-      <text x="12" y="516">📈</text>
-      <text x="12" y="540">💎</text>
-      <text x="12" y="564">💻</text>
+    <g id="emojis" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" font-size="16" text-anchor="middle">
+      <text x="12" y="17">🚀</text>
+      <text x="12" y="41">✨</text>
+      <text x="12" y="65">🔥</text>
+      <text x="12" y="89">🎯</text>
+      <text x="12" y="113">🤖</text>
+      <text x="12" y="137">⚡</text>
+      <text x="12" y="161">📦</text>
+      <text x="12" y="185">🧠</text>
+      <text x="12" y="209">🎉</text>
+      <text x="12" y="233">🛠️</text>
+      <text x="12" y="257">💡</text>
+      <text x="12" y="281">🐛</text>
+      <text x="12" y="305">🔍</text>
+      <text x="12" y="329">⚙️</text>
+      <text x="12" y="353">📚</text>
+      <text x="12" y="377">✅</text>
+      <text x="12" y="401">🌟</text>
+      <text x="12" y="425">🧪</text>
+      <text x="12" y="449">🎨</text>
+      <text x="12" y="473">🚧</text>
+      <text x="12" y="497">🔮</text>
+      <text x="12" y="521">📈</text>
+      <text x="12" y="545">💎</text>
+      <text x="12" y="569">💻</text>
     </g>
   </defs>
   <svg x="0" y="0" width="24" height="24" overflow="hidden">
