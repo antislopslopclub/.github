@@ -1,0 +1,1 @@
+![assc](./emoji-grid.svg)

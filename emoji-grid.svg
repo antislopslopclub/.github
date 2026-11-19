@@ -1,0 +1,1652 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="864" height="216" viewBox="0 0 864 216" role="img" aria-labelledby="title">
+  <title id="title">A grid of independently changing emojis</title>
+  <defs>
+    <g id="emojis" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" font-size="16" text-anchor="middle" dominant-baseline="central">
+      <text x="12" y="12">🚀</text>
+      <text x="12" y="36">✨</text>
+      <text x="12" y="60">🔥</text>
+      <text x="12" y="84">🎯</text>
+      <text x="12" y="108">🤖</text>
+      <text x="12" y="132">⚡</text>
+      <text x="12" y="156">📦</text>
+      <text x="12" y="180">🧠</text>
+      <text x="12" y="204">🎉</text>
+      <text x="12" y="228">🛠️</text>
+      <text x="12" y="252">💡</text>
+      <text x="12" y="276">🐛</text>
+      <text x="12" y="300">🔍</text>
+      <text x="12" y="324">⚙️</text>
+      <text x="12" y="348">📚</text>
+      <text x="12" y="372">✅</text>
+      <text x="12" y="396">🌟</text>
+      <text x="12" y="420">🧪</text>
+      <text x="12" y="444">🎨</text>
+      <text x="12" y="468">🚧</text>
+      <text x="12" y="492">🔮</text>
+      <text x="12" y="516">📈</text>
+      <text x="12" y="540">💎</text>
+      <text x="12" y="564">💻</text>
+    </g>
+  </defs>
+  <rect width="864" height="216" fill="white"/>
+  <svg x="0" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-432">
+      <animate attributeName="y" calcMode="discrete" values="-432;-144;-336;-96;-456;-360;-24;-336;-120;0;-216;-72;-240;-408;-432" keyTimes="0;0.07453625;0.1421485;0.19689454;0.31098538;0.35746396;0.41662791;0.45308221;0.49511704;0.60042371;0.68676691;0.733323;0.75944298;0.88469488;1" dur="38706ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="24" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-120">
+      <animate attributeName="y" calcMode="discrete" values="-120;-48;-384;-360;-504;-264;-72;-480;-240;-336;-552;0;-480;-120" keyTimes="0;0.1161022;0.21376883;0.29762725;0.38069804;0.47469725;0.54831643;0.63584228;0.7251403;0.76498966;0.83873191;0.87168948;0.90897903;1" dur="40628ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="48" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-192">
+      <animate attributeName="y" calcMode="discrete" values="-192;-48;-240;-144;-408;-384;-288;-48;-120;-48;-384;-480;-384;-192" keyTimes="0;0.0754355;0.18432214;0.21055289;0.24930573;0.33049735;0.43584953;0.52097955;0.63279475;0.66753345;0.78442313;0.86516031;0.90171674;1" dur="39610ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="72" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-384">
+      <animate attributeName="y" calcMode="discrete" values="-384;-264;-480;0;-336;-72;-336;-192;0;-384" keyTimes="0;0.10764441;0.22917005;0.35325787;0.452113;0.5989362;0.6697694;0.81474394;0.88933934;1" dur="30833ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="96" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-48">
+      <animate attributeName="y" calcMode="discrete" values="-48;-216;-504;-312;-192;-408;-264;-384;-456;-480;-168;-384;-240;-48" keyTimes="0;0.10670377;0.16434311;0.21900111;0.30117266;0.33958943;0.44251682;0.51375678;0.63553764;0.73392203;0.83594083;0.90587467;0.93812999;1" dur="35219ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="120" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-504">
+      <animate attributeName="y" calcMode="discrete" values="-504;-528;-432;-288;-168;-456;-336;-264;-432;-360;-432;-528;-504" keyTimes="0;0.10422298;0.25412987;0.29741094;0.44656695;0.49107947;0.5964438;0.63422839;0.72073046;0.7953385;0.84096234;0.88298192;1" dur="33294ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="144" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;-264;-312;0;-504;-528;-312;-528;-456;-24" keyTimes="0;0.05289383;0.21318513;0.32437716;0.39405903;0.50693752;0.67090839;0.83142967;0.88317363;1" dur="26090ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="168" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-552">
+      <animate attributeName="y" calcMode="discrete" values="-552;-24;-528;-408;-384;-456;-432;-312;-504;-168;-528;0;-552" keyTimes="0;0.07938042;0.20044927;0.23563369;0.29375196;0.34476544;0.44156828;0.56023404;0.69028837;0.80174485;0.88768154;0.94386689;1" dur="38284ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="192" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-432">
+      <animate attributeName="y" calcMode="discrete" values="-432;-312;-192;-360;-312;-336;-408;-96;-336;-504;-48;-480;-72;0;-432" keyTimes="0;0.06106331;0.08821377;0.12422094;0.1770836;0.28379299;0.34329187;0.43594661;0.50917211;0.61636093;0.73894174;0.80934117;0.86084126;0.94521965;1" dur="39631ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="216" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-528">
+      <animate attributeName="y" calcMode="discrete" values="-528;-456;-120;-432;-120;-528;-120;-312;-384;-408;-120;-96;-528" keyTimes="0;0.10427693;0.22250094;0.25779506;0.30866675;0.37330992;0.49833187;0.620444;0.69707764;0.7933024;0.8714662;0.91069861;1" dur="39865ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="240" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;-336;-264;-336;-264;-528;-120;0;-552;-120;-456;-24" keyTimes="0;0.13427393;0.17654484;0.28972539;0.32574121;0.45838826;0.59773919;0.71271493;0.76048358;0.80398867;0.87585201;1" dur="35651ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="264" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-336">
+      <animate attributeName="y" calcMode="discrete" values="-336;-288;-72;-384;-48;-312;-96;-408;-288;-552;-240;-336" keyTimes="0;0.13935856;0.22933441;0.32551664;0.4699745;0.58373591;0.66220478;0.70675658;0.75278449;0.78737252;0.92797236;1" dur="29808ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="288" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-480">
+      <animate attributeName="y" calcMode="discrete" values="-480;-288;-528;-24;-264;-192;-288;-264;-144;-408;-168;-480" keyTimes="0;0.13817724;0.26783464;0.33947321;0.37460251;0.41321174;0.54124918;0.58651827;0.73600528;0.83026339;0.88267235;1" dur="33334ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="312" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-504">
+      <animate attributeName="y" calcMode="discrete" values="-504;-456;-168;-432;-480;-216;-96;-432;-72;-456;-504" keyTimes="0;0.16019553;0.34252673;0.39677304;0.49688034;0.55967095;0.61554664;0.77653698;0.81711243;0.93538131;1" dur="25163ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="336" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-528">
+      <animate attributeName="y" calcMode="discrete" values="-528;-264;-216;-96;-24;-96;-408;-120;-480;-168;-432;-528" keyTimes="0;0.05019387;0.20715545;0.29129362;0.40613324;0.50585125;0.55089884;0.62026789;0.72150159;0.77345788;0.82908001;1" dur="28370ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="360" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-312">
+      <animate attributeName="y" calcMode="discrete" values="-312;-408;-144;-456;-24;-240;-456;-168;-456;-384;-360;-168;-312" keyTimes="0;0.04045365;0.13893825;0.19577369;0.33571359;0.49138906;0.55232802;0.59384794;0.70881127;0.82416233;0.90994863;0.95195321;1" dur="30949ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="384" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-408">
+      <animate attributeName="y" calcMode="discrete" values="-408;-384;-288;-504;-192;-384;-408;0;-192;-264;-456;-408" keyTimes="0;0.14911098;0.28056697;0.40211358;0.54169149;0.60738813;0.72391734;0.75938411;0.79798677;0.86371476;0.94038697;1" dur="31889ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="408" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-288">
+      <animate attributeName="y" calcMode="discrete" values="-288;-336;-360;-384;-168;-216;-480;-120;-48;-120;-288" keyTimes="0;0.08988721;0.26785851;0.40915369;0.51826134;0.57415791;0.63795749;0.68491522;0.7537405;0.80829433;1" dur="26066ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="432" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-264">
+      <animate attributeName="y" calcMode="discrete" values="-264;-336;0;-168;-216;-360;0;-24;-120;-408;-120;-264" keyTimes="0;0.04298834;0.17583893;0.27799364;0.44701519;0.50438008;0.56079124;0.69339456;0.7758036;0.887213;0.95747086;1" dur="28310ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="456" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-240">
+      <animate attributeName="y" calcMode="discrete" values="-240;-480;-384;-168;-552;-480;-216;-384;-120;-192;-96;-240" keyTimes="0;0.05007698;0.11857494;0.16611296;0.29387138;0.38449072;0.51921778;0.62858223;0.73770359;0.82745861;0.87318694;1" dur="37023ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="480" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;-168;-336;-384;-336;0;-312;-48;0;-24;-336;-216;-528;-24" keyTimes="0;0.05351081;0.07827574;0.13989498;0.21177189;0.27854439;0.38705581;0.47895958;0.58373428;0.70123336;0.73908902;0.81699841;0.92328734;1" dur="40945ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="504" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-312">
+      <animate attributeName="y" calcMode="discrete" values="-312;-168;-504;-288;-96;-528;-336;-240;-192;-432;-504;-528;-312" keyTimes="0;0.10256893;0.18388702;0.2400538;0.37199731;0.4402959;0.48390047;0.55058507;0.62862139;0.72825824;0.83706792;0.87378615;1" dur="37175ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="528" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-312">
+      <animate attributeName="y" calcMode="discrete" values="-312;-504;-288;-312;-72;-168;-336;-48;-240;-384;-48;-96;-144;-288;-312" keyTimes="0;0.10390115;0.1884336;0.28075465;0.32221004;0.37864876;0.46672148;0.53126856;0.60926865;0.65919784;0.75448815;0.80311544;0.86476177;0.96745238;1" dur="43782ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="552" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-408">
+      <animate attributeName="y" calcMode="discrete" values="-408;-312;-288;-240;-336;-360;0;-288;-480;-216;-72;0;-144;-408" keyTimes="0;0.13192612;0.18635676;0.24197326;0.33135691;0.41543387;0.46977558;0.54027452;0.66099434;0.71275681;0.74898461;0.83644126;0.87017877;1" dur="33731ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="576" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-168">
+      <animate attributeName="y" calcMode="discrete" values="-168;-24;-336;-96;-264;-168;-480;-288;-192;-456;-168" keyTimes="0;0.06200435;0.22226121;0.29082743;0.34683136;0.48680609;0.61463962;0.6554846;0.75426346;0.91616956;1" dur="28498ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="600" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-168">
+      <animate attributeName="y" calcMode="discrete" values="-168;-72;-192;-384;-192;-240;-480;-168;-552;-96;-288;-480;-264;-168" keyTimes="0;0.12274781;0.1852376;0.26160797;0.36209243;0.40697295;0.53815797;0.56894018;0.65230526;0.71841489;0.80433836;0.84627946;0.96587012;1" dur="36742ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="624" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-216">
+      <animate attributeName="y" calcMode="discrete" values="-216;-264;-144;-72;-168;-216;-528;-456;-312;-360;-72;-312;-216" keyTimes="0;0.05936582;0.10103635;0.14447022;0.17834493;0.25794277;0.35863882;0.4887239;0.58802784;0.72940449;0.77747873;0.87848415;1" dur="32325ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="648" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-216">
+      <animate attributeName="y" calcMode="discrete" values="-216;-384;-264;-144;-96;-192;-312;-120;-552;-216" keyTimes="0;0.11953552;0.17764442;0.3842701;0.43657299;0.49736534;0.7055523;0.77288251;0.94486729;1" dur="20496ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="672" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-144">
+      <animate attributeName="y" calcMode="discrete" values="-144;-48;-480;-216;-360;-216;-336;-480;-216;-504;-552;-336;-72;-144" keyTimes="0;0.08827294;0.1493247;0.19587764;0.23459338;0.2631469;0.34219807;0.47159017;0.55100708;0.67551399;0.71976802;0.80720499;0.89725437;1" dur="38279ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="696" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-168">
+      <animate attributeName="y" calcMode="discrete" values="-168;-192;-528;0;-528;-312;-336;-528;-432;-96;-552;-144;-96;-456;-168" keyTimes="0;0.06629395;0.12055854;0.23701015;0.27095202;0.30587425;0.37047243;0.46723722;0.54972046;0.62088975;0.74446888;0.77671498;0.86717363;0.94226438;1" dur="37741ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="720" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-312">
+      <animate attributeName="y" calcMode="discrete" values="-312;-504;-312;-192;-336;-168;-120;-72;-96;-384;-312" keyTimes="0;0.12225924;0.22424242;0.36801523;0.40723465;0.48522926;0.60409329;0.688561;0.80422021;0.89643027;1" dur="31515ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="744" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-552">
+      <animate attributeName="y" calcMode="discrete" values="-552;-168;-480;-504;-336;-456;-336;-24;-48;-432;-168;-336;-120;-552" keyTimes="0;0.10385993;0.17641597;0.26112216;0.34582836;0.40496087;0.45762037;0.49035681;0.60514657;0.64361321;0.71635495;0.8266083;0.90462926;1" dur="37695ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="768" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-432">
+      <animate attributeName="y" calcMode="discrete" values="-432;-360;-216;-384;-240;-504;-360;-192;-456;-288;-120;-168;-432" keyTimes="0;0.09480868;0.17333658;0.21515964;0.25978552;0.36958323;0.44118937;0.54577139;0.63850841;0.75659274;0.82744333;0.87962466;1" dur="41030ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="792" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-240">
+      <animate attributeName="y" calcMode="discrete" values="-240;-192;-96;-432;-480;-312;-144;-528;-336;-72;-120;-72;-240" keyTimes="0;0.08969938;0.12944976;0.21570103;0.31083969;0.40114613;0.49757175;0.57289593;0.60118498;0.71735224;0.82494779;0.92380166;1" dur="41182ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="816" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-72">
+      <animate attributeName="y" calcMode="discrete" values="-72;-240;-192;-216;-432;-528;-72;0;-240;-312;-456;-552;-72" keyTimes="0;0.04737453;0.08825065;0.20171163;0.26420075;0.38334784;0.42613867;0.51502756;0.62782129;0.73214389;0.84574993;0.91804468;1" dur="34470ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="840" y="0" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-96">
+      <animate attributeName="y" calcMode="discrete" values="-96;-432;-336;-168;-216;-528;-360;-240;-456;-360;-96" keyTimes="0;0.06136408;0.19024819;0.28232688;0.44212103;0.58569474;0.6283304;0.75083056;0.8487395;0.90512019;1" dur="30702ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="0" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-480">
+      <animate attributeName="y" calcMode="discrete" values="-480;-288;-384;-456;-72;-480;-192;-432;-384;-120;-480" keyTimes="0;0.13581914;0.20510863;0.31708749;0.40516735;0.51344686;0.62005285;0.70214328;0.78176747;0.90466823;1" dur="34060ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="24" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-312">
+      <animate attributeName="y" calcMode="discrete" values="-312;-216;-192;-24;-384;-312;-552;-456;-480;-168;-408;-504;-312" keyTimes="0;0.11225541;0.24868406;0.35358737;0.40141893;0.49965671;0.54983408;0.6633196;0.72705687;0.85072663;0.89652706;0.96858908;1" dur="34956ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="48" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-144">
+      <animate attributeName="y" calcMode="discrete" values="-144;-504;-432;-552;-48;-432;-384;-480;-432;-360;-480;-120;-552;-144" keyTimes="0;0.1219604;0.23792232;0.27192275;0.31455778;0.40329783;0.45556273;0.51638154;0.6105552;0.64708414;0.74540026;0.83777168;0.95101679;1" dur="37176ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="72" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;-240;-96;-288;-120;-240;-384;0;-384;-192;-24" keyTimes="0;0.07931508;0.22765267;0.35758842;0.39620111;0.48465473;0.52757158;0.66755037;0.74917348;0.86735076;1" dur="32062ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="96" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-72">
+      <animate attributeName="y" calcMode="discrete" values="-72;-168;-288;-312;-120;-240;-72;-24;-456;-72" keyTimes="0;0.09216385;0.25022262;0.38091961;0.47947867;0.53132842;0.59471383;0.75054643;0.94082409;1" dur="24706ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="120" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-504">
+      <animate attributeName="y" calcMode="discrete" values="-504;-456;-72;-216;-24;-312;-192;-456;-480;-168;-240;-408;-456;-288;-504" keyTimes="0;0.07190209;0.15546004;0.22692504;0.31099293;0.34387217;0.42769724;0.52818047;0.63915398;0.75551832;0.7939341;0.82720186;0.90631602;0.95507637;1" dur="41181ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="144" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-216">
+      <animate attributeName="y" calcMode="discrete" values="-216;-168;-408;-72;-288;-360;-480;-120;-144;-168;-72;-120;-216" keyTimes="0;0.11424673;0.1749246;0.28256499;0.36959644;0.44528221;0.52980037;0.62480253;0.71714778;0.76420604;0.86569486;0.93180621;1" dur="41778ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="168" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-96">
+      <animate attributeName="y" calcMode="discrete" values="-96;-408;-144;-312;-168;0;-504;-360;-216;-120;-240;-552;-456;-96" keyTimes="0;0.03103175;0.14262717;0.25635247;0.37131606;0.42104611;0.46664025;0.54960622;0.61209074;0.70090148;0.74954183;0.83312695;0.88736441;1" dur="40378ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="192" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-288">
+      <animate attributeName="y" calcMode="discrete" values="-288;-552;0;-144;-216;-504;-456;-144;-528;-312;-456;-408;-432;-456;-288" keyTimes="0;0.04502029;0.08616922;0.15533354;0.22343636;0.30854407;0.40884587;0.5120408;0.60628577;0.63336455;0.70631699;0.78505568;0.84187741;0.91006348;1" dur="48045ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="216" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-216">
+      <animate attributeName="y" calcMode="discrete" values="-216;-240;-384;-336;-120;-240;-336;-216;-336;-504;-48;-216;-288;-216" keyTimes="0;0.04020896;0.10384676;0.2266635;0.29359928;0.3878951;0.51034246;0.6013403;0.69563611;0.72339191;0.83169754;0.87673474;0.91828927;1" dur="37902ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="240" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-288">
+      <animate attributeName="y" calcMode="discrete" values="-288;-336;-528;-24;-384;-288;-240;-336;-96;-432;-120;-528;-264;-456;-288" keyTimes="0;0.08226601;0.2068447;0.24801659;0.33795696;0.4398237;0.4694322;0.5863106;0.61750065;0.70959295;0.7453202;0.82644542;0.85945035;0.91503759;1" dur="38570ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="264" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-336">
+      <animate attributeName="y" calcMode="discrete" values="-336;-384;-48;-312;-216;-144;-504;-264;-408;-552;-72;-528;-336" keyTimes="0;0.03153674;0.12472018;0.24565201;0.34193501;0.43280608;0.49841332;0.52574352;0.61240806;0.73533246;0.81636368;0.88170033;1" dur="40651ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="288" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-360">
+      <animate attributeName="y" calcMode="discrete" values="-360;-168;-408;-264;-144;-264;-216;-288;-480;-408;-360" keyTimes="0;0.04869565;0.19723027;0.30318841;0.33880837;0.48972625;0.62518519;0.77507246;0.88621578;0.96247987;1" dur="31050ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="312" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-144">
+      <animate attributeName="y" calcMode="discrete" values="-144;-456;-384;-144;-384;-408;-72;-504;-288;-144;0;-144" keyTimes="0;0.05532823;0.15940965;0.25166999;0.39660057;0.53030462;0.57048928;0.73339629;0.77781275;0.85174693;0.92708005;1" dur="28593ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="336" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-384;-528;-72;-312;-360;-216;-168;-360;-168;-72;-24;-408;0" keyTimes="0;0.10741369;0.16201267;0.19353496;0.2606239;0.30392244;0.41100901;0.44553484;0.50628959;0.59984536;0.72010587;0.80277753;0.85148839;1" dur="33627ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="360" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-288">
+      <animate attributeName="y" calcMode="discrete" values="-288;-216;-528;-432;0;-288;-456;-312;-168;-120;-240;-552;0;-288" keyTimes="0;0.06265784;0.16334983;0.25063138;0.33248308;0.36778968;0.42494191;0.53396808;0.60253561;0.70699061;0.73648853;0.8390494;0.88673098;1" dur="39596ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="384" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-312">
+      <animate attributeName="y" calcMode="discrete" values="-312;-264;-216;-384;-432;-264;-312;-336;-72;-432;-288;-384;-96;-480;-312" keyTimes="0;0.06588932;0.16207143;0.25428072;0.33278376;0.40667832;0.50556196;0.59260657;0.62101228;0.70537523;0.77726352;0.85074093;0.88661555;0.96227802;1" dur="50342ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="408" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-240">
+      <animate attributeName="y" calcMode="discrete" values="-240;-432;-408;-144;-504;-480;-456;-24;-552;-96;-240" keyTimes="0;0.0704167;0.21961164;0.31763527;0.37430032;0.50003455;0.5928063;0.67130813;0.75057011;0.90474052;1" dur="28942ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="432" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-192">
+      <animate attributeName="y" calcMode="discrete" values="-192;-504;-192;-336;-144;-192;-72;-456;0;-168;-384;-360;-24;-240;-192" keyTimes="0;0.0276863;0.11300339;0.14254799;0.25044693;0.36326214;0.39123071;0.46161084;0.56466409;0.58941005;0.663742;0.76366673;0.8715892;0.91647064;1" dur="42512ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="456" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-48">
+      <animate attributeName="y" calcMode="discrete" values="-48;-144;-456;-480;0;-528;-456;-480;-48;-144;-168;-48" keyTimes="0;0.06273605;0.15626311;0.24766576;0.32514163;0.44720415;0.51418905;0.62138061;0.66625577;0.79243601;0.87659987;1" dur="38128ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="480" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-432">
+      <animate attributeName="y" calcMode="discrete" values="-432;-240;-312;-216;-360;-24;-168;-384;-456;-432" keyTimes="0;0.05123097;0.13885726;0.27380105;0.43766899;0.59979365;0.75903657;0.80379251;0.86818699;1" dur="28108ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="504" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-480">
+      <animate attributeName="y" calcMode="discrete" values="-480;-240;-336;0;-336;-312;0;-48;-336;-120;-480" keyTimes="0;0.10639077;0.22184582;0.35756577;0.50744674;0.55218824;0.68564976;0.75004578;0.78410548;0.86632485;1" dur="32766ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="528" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-384">
+      <animate attributeName="y" calcMode="discrete" values="-384;-504;-552;-24;-408;-264;-288;-240;-192;-528;-408;-504;-384" keyTimes="0;0.02952823;0.14257835;0.24507863;0.29932685;0.3505487;0.47098088;0.55382396;0.61217332;0.70638647;0.8108949;0.9020534;1" dur="35356ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="552" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-240">
+      <animate attributeName="y" calcMode="discrete" values="-240;-360;-336;-312;-336;-456;-336;-552;-360;-480;-192;-480;-240" keyTimes="0;0.08910079;0.1265508;0.23897775;0.27168564;0.39459653;0.4998462;0.53932123;0.63121604;0.73503025;0.82474623;0.87475649;1" dur="39012ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="576" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-48">
+      <animate attributeName="y" calcMode="discrete" values="-48;-288;-408;-384;-144;-384;-240;-288;-480;-48" keyTimes="0;0.08220964;0.21750112;0.36745835;0.43610217;0.51529718;0.70705178;0.76074469;0.87937426;1" dur="24547ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="600" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-96">
+      <animate attributeName="y" calcMode="discrete" values="-96;-552;0;-72;-24;-312;-24;-528;-456;-192;-24;-72;-288;-96" keyTimes="0;0.0831421;0.14835456;0.25338545;0.28468037;0.31774051;0.41820704;0.51721094;0.60776699;0.65537763;0.75783634;0.83535494;0.89622998;1" dur="39655ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="624" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-360;-288;-120;-24;-144;-168;-384;-504;-264;-192;-552;-456;0" keyTimes="0;0.08437108;0.12327334;0.21918167;0.33853077;0.37889807;0.47611448;0.50230222;0.59719025;0.68095961;0.77817602;0.88745291;0.95518522;1" dur="38224ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="648" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-48">
+      <animate attributeName="y" calcMode="discrete" values="-48;0;-288;-72;-144;-216;-552;-144;-240;-384;-168;-384;-336;-480;-48" keyTimes="0;0.08821549;0.19089748;0.27823058;0.34466504;0.39716707;0.48347846;0.51262046;0.58555672;0.67017299;0.69645884;0.7420411;0.80218275;0.89594799;1" dur="43065ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="672" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-480">
+      <animate attributeName="y" calcMode="discrete" values="-480;-552;-24;-96;-480;-48;-336;-480;-288;-384;-72;-288;-192;-480" keyTimes="0;0.10442794;0.14312431;0.26740924;0.31933443;0.40110011;0.44955996;0.55467547;0.62775028;0.75140264;0.82136964;0.85624312;0.91765677;1" dur="36360ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="696" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-456">
+      <animate attributeName="y" calcMode="discrete" values="-456;0;-504;-72;-360;-264;-504;-144;-504;-336;-264;-384;0;-456" keyTimes="0;0.05007624;0.15327823;0.24789343;0.29240564;0.35138967;0.38801059;0.47743627;0.60848514;0.72888746;0.77471043;0.81553112;0.90669556;1" dur="37383ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="720" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-192">
+      <animate attributeName="y" calcMode="discrete" values="-192;-168;-480;-96;-288;0;-480;-72;-240;-192" keyTimes="0;0.15952209;0.29945254;0.40956513;0.46000757;0.52298316;0.61388286;0.7555349;0.92359605;1" dur="29043ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="744" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-504">
+      <animate attributeName="y" calcMode="discrete" values="-504;-264;-408;-384;-72;-240;-96;-408;-240;-336;-504;-48;-72;-504" keyTimes="0;0.03918074;0.12621359;0.24120229;0.35382365;0.46322649;0.5296715;0.63407368;0.67192446;0.72201091;0.81457641;0.88623487;0.92903312;1" dur="37595ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="768" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-288">
+      <animate attributeName="y" calcMode="discrete" values="-288;-168;-240;-480;-312;-264;-216;-432;-216;-288" keyTimes="0;0.10866251;0.21458125;0.26658247;0.47602456;0.61948521;0.66626018;0.86111232;0.91137146;1" dur="22961ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="792" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-336">
+      <animate attributeName="y" calcMode="discrete" values="-336;-144;-312;-528;0;-360;-72;-384;-120;-288;0;-240;-120;-336" keyTimes="0;0.10219601;0.14431256;0.22917936;0.28362865;0.3095859;0.4246996;0.52411709;0.57491043;0.66155646;0.75917034;0.78549319;0.8820834;1" dur="41029ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="816" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;-312;-24;-432;-48;-408;-168;-552;-168;-240;-408;-432;-528;-168;-24" keyTimes="0;0.04072581;0.11787634;0.14763441;0.26997312;0.35873656;0.42352151;0.53502688;0.60612903;0.65814516;0.76916667;0.84424731;0.91365591;0.94693548;1" dur="37200ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="840" y="24" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-432">
+      <animate attributeName="y" calcMode="discrete" values="-432;0;-96;-432;-216;-48;-456;-312;-48;-528;-432;-96;-432" keyTimes="0;0.03504791;0.13343833;0.23172197;0.34786323;0.45025759;0.55692283;0.65197662;0.68510263;0.73050743;0.802365;0.93332088;1" dur="37463ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="0" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-168">
+      <animate attributeName="y" calcMode="discrete" values="-168;-456;-432;0;-408;-480;-336;-312;0;-168" keyTimes="0;0.12072118;0.28777794;0.35119222;0.48555442;0.57712844;0.75830164;0.80763604;0.87013604;1" dur="27344ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="24" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-72;-384;-528;-552;-120;-192;-432;-24;-96;0;-144;-168;-312;0" keyTimes="0;0.03154788;0.06512798;0.15232012;0.1973194;0.31601103;0.43046886;0.52799148;0.6035951;0.6725456;0.73595587;0.85128466;0.90211448;0.96808922;1" dur="41334ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="48" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-456">
+      <animate attributeName="y" calcMode="discrete" values="-456;-480;-336;-216;-528;-504;-240;-456;-480;-144;-456" keyTimes="0;0.16045336;0.22210985;0.30291194;0.40645161;0.47166521;0.57925022;0.73060157;0.80223191;0.8487184;1" dur="28675ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="72" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-480">
+      <animate attributeName="y" calcMode="discrete" values="-480;-72;-504;-192;-456;-408;-168;-480;-24;-384;-48;-312;-192;-480" keyTimes="0;0.07451534;0.12022082;0.1632302;0.23494672;0.33195532;0.36035435;0.39342663;0.47384773;0.58359225;0.64018488;0.76053409;0.88807292;1" dur="38945ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="96" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-48">
+      <animate attributeName="y" calcMode="discrete" values="-48;-72;-504;-552;-384;-528;-312;-72;-96;-336;-288;-48" keyTimes="0;0.07792898;0.18527418;0.2660866;0.3753794;0.48133347;0.51350668;0.62113011;0.73075172;0.81391643;0.88931607;1" dur="39536ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="120" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-96">
+      <animate attributeName="y" calcMode="discrete" values="-96;-480;-192;-72;-552;-504;-48;-168;-360;-264;-72;-48;-192;-456;-96" keyTimes="0;0.14246622;0.1846531;0.22646941;0.34510575;0.40875663;0.44145146;0.48021778;0.51741634;0.60141953;0.72951941;0.81526139;0.89963514;0.92985007;1" dur="35082ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="144" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-72">
+      <animate attributeName="y" calcMode="discrete" values="-72;-96;-192;-456;-48;-408;-432;-96;-216;-72" keyTimes="0;0.0986161;0.26699634;0.37254972;0.41527625;0.57924508;0.71759935;0.82856025;0.93831157;1" dur="28109ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="168" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-312">
+      <animate attributeName="y" calcMode="discrete" values="-312;-120;-432;-360;-552;0;-96;-312;-432;-312" keyTimes="0;0.08728917;0.19253173;0.30703356;0.39467049;0.4813076;0.67488263;0.80507738;0.87110937;1" dur="23004ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="192" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-216">
+      <animate attributeName="y" calcMode="discrete" values="-216;-408;-168;-552;-504;-216;-360;-48;-264;-144;-96;-192;-216" keyTimes="0;0.09440987;0.20025013;0.27496946;0.38467803;0.48403234;0.51378628;0.57009482;0.61805596;0.69457856;0.8043453;0.94697807;1" dur="34382ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="216" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;-552;-408;-48;-168;-264;-408;-504;-144;-96;-24" keyTimes="0;0.11125133;0.18833123;0.27544251;0.42772546;0.48771964;0.55204996;0.6983788;0.77756205;0.87101576;1" dur="30903ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="240" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-72">
+      <animate attributeName="y" calcMode="discrete" values="-72;-48;-456;-288;-216;-504;-72;-408;-192;-24;-240;-552;-72" keyTimes="0;0.04937234;0.16328951;0.2729317;0.32415736;0.41904715;0.54008105;0.56869625;0.65466541;0.75331126;0.84825047;0.94889789;1" dur="40468ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="264" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-480">
+      <animate attributeName="y" calcMode="discrete" values="-480;-528;-480;0;-504;-408;-552;-336;-408;-96;-480" keyTimes="0;0.04625733;0.0980338;0.19720593;0.35074164;0.3941704;0.50614005;0.67816488;0.77457744;0.87509486;1" dur="28990ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="288" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-408">
+      <animate attributeName="y" calcMode="discrete" values="-408;-528;-336;-288;-312;-24;-48;-408;-264;-408" keyTimes="0;0.083821;0.25405614;0.34450012;0.40988892;0.46837439;0.63531556;0.75824368;0.84500823;1" dur="28537ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="312" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;-288;-552;-336;-192;-96;-240;-48;-408;0;-216;-408;-480;-24" keyTimes="0;0.04622775;0.14422153;0.25346143;0.28801921;0.34518225;0.4754733;0.50796835;0.58005086;0.63266459;0.75170952;0.86527268;0.91890365;1" dur="35390ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="336" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-528">
+      <animate attributeName="y" calcMode="discrete" values="-528;-384;-120;-72;-96;-408;-480;-48;-480;-528" keyTimes="0;0.1429942;0.19804118;0.27119728;0.35918449;0.44725165;0.5714971;0.66707975;0.84085549;1" dur="25015ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="360" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-552">
+      <animate attributeName="y" calcMode="discrete" values="-552;-168;-336;-528;-288;-216;-168;-216;-168;-504;-48;-552" keyTimes="0;0.06069105;0.13657434;0.20201784;0.30259826;0.37462506;0.54360952;0.60476803;0.6983756;0.82867828;0.88578552;1" dur="25671ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="384" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-456">
+      <animate attributeName="y" calcMode="discrete" values="-456;-168;-288;-120;-144;-504;-264;-456;-552;-456;-384;-456" keyTimes="0;0.12790116;0.20728808;0.27416328;0.33653425;0.38088833;0.4437285;0.58554895;0.64110103;0.78295277;0.92152018;1" dur="31970ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="408" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-72">
+      <animate attributeName="y" calcMode="discrete" values="-72;0;-504;-24;-144;-96;-240;-120;-216;-48;-264;-24;-480;-552;-72" keyTimes="0;0.08424471;0.18390949;0.24825058;0.32667086;0.39851247;0.47450241;0.53479992;0.60571967;0.66358684;0.76052797;0.79235282;0.83333333;0.91931699;1" dur="47730ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="432" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-336">
+      <animate attributeName="y" calcMode="discrete" values="-336;-312;-552;-504;-408;-72;-96;-528;-384;-96;-336" keyTimes="0;0.06333322;0.17766202;0.30446554;0.40316666;0.46296994;0.62524418;0.69471195;0.77946468;0.82871243;1" dur="29179ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="456" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-432;-144;-504;-384;-48;-384;-432;-240;-120;-552;-24;0" keyTimes="0;0.11523136;0.19049161;0.28343378;0.3790905;0.42065548;0.46720128;0.58913184;0.64984808;0.72588036;0.84691438;0.94252129;1" dur="40154ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="480" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-360;-336;-288;-384;-360;-384;-528;-480;0" keyTimes="0;0.17461489;0.2453187;0.31989669;0.41416843;0.49575685;0.55843557;0.67484549;0.8094733;1" dur="21682ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="504" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-528">
+      <animate attributeName="y" calcMode="discrete" values="-528;-240;-504;-168;-48;-432;-216;-384;-168;-528" keyTimes="0;0.09957414;0.24332652;0.39144133;0.5556902;0.64248866;0.75483849;0.86448776;0.90205311;1" dur="28883ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="528" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-264">
+      <animate attributeName="y" calcMode="discrete" values="-264;-552;-72;-528;-456;-240;-456;-264;-168;-336;-264" keyTimes="0;0.10089149;0.15143542;0.23147312;0.4188823;0.49397165;0.55680792;0.60652712;0.69830735;0.88544162;1" dur="25463ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="552" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-192">
+      <animate attributeName="y" calcMode="discrete" values="-192;-360;-456;-144;-552;-240;-96;-120;-264;-216;-192" keyTimes="0;0.08542225;0.24601206;0.37024129;0.49735255;0.6536193;0.70060322;0.73924263;0.81296917;0.86682306;1" dur="29840ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="576" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-360">
+      <animate attributeName="y" calcMode="discrete" values="-360;-216;-168;-432;-72;-312;-528;-504;-144;-456;0;-360" keyTimes="0;0.04715397;0.09170351;0.19714883;0.25413797;0.31287482;0.48367088;0.52390254;0.60799836;0.75651965;0.82971797;1" dur="29181ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="600" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-552">
+      <animate attributeName="y" calcMode="discrete" values="-552;-408;-480;-456;-432;-480;-528;-216;-552;-24;-552" keyTimes="0;0.10383156;0.18983308;0.32435508;0.39988619;0.48584977;0.5711305;0.65770106;0.7835736;0.87818665;1" dur="26360ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="624" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-528">
+      <animate attributeName="y" calcMode="discrete" values="-528;-504;-192;-480;-120;-96;-24;-168;-96;-192;-384;-504;-528" keyTimes="0;0.05992664;0.11325722;0.24148131;0.37798746;0.43803242;0.57737814;0.66691316;0.73810932;0.83820398;0.88760057;0.94388902;1" dur="33808ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="648" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-288">
+      <animate attributeName="y" calcMode="discrete" values="-288;-336;-288;-456;-48;-360;-432;-504;-552;-480;0;-336;-360;-288" keyTimes="0;0.12781186;0.21849929;0.31511195;0.39064548;0.44861308;0.5646007;0.64385717;0.73564574;0.81217555;0.87279115;0.92714068;0.95626868;1" dur="38142ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="672" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-216">
+      <animate attributeName="y" calcMode="discrete" values="-216;-456;-120;-72;-480;-168;-384;-360;-168;0;-216;-336;-216" keyTimes="0;0.05296102;0.10279238;0.20886634;0.28315761;0.43046398;0.47576798;0.5815077;0.64966121;0.71146425;0.77369269;0.87368965;1" dur="32911ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="696" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-432">
+      <animate attributeName="y" calcMode="discrete" values="-432;0;-168;-216;-24;-384;-288;-96;-480;-336;-24;-528;-432" keyTimes="0;0.0542092;0.14112805;0.2739433;0.34033739;0.41312177;0.5087325;0.60710514;0.65730687;0.78928272;0.83217351;0.93574504;1" dur="36931ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="720" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-216">
+      <animate attributeName="y" calcMode="discrete" values="-216;-240;-288;-336;-408;-96;-408;-240;-24;-240;-216" keyTimes="0;0.06552777;0.16234609;0.25018417;0.38881678;0.50619146;0.64110569;0.70516014;0.77619532;0.94513628;1" dur="28507ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="744" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-336">
+      <animate attributeName="y" calcMode="discrete" values="-336;-312;-360;-456;-72;-312;-96;-360;-48;-552;-336" keyTimes="0;0.11519512;0.14548458;0.18638374;0.32366609;0.44426404;0.56917306;0.67753765;0.80160685;0.89085158;1" dur="35722ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="768" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;-168;-408;-528;-168;-192;-240;-264;-408;-264;-192;-336;-240;-264;-24" keyTimes="0;0.04829411;0.09415125;0.20258372;0.28090771;0.33093129;0.3920392;0.44759185;0.53545412;0.59362717;0.66815156;0.77705571;0.85121325;0.92421781;1" dur="38162ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="792" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-264">
+      <animate attributeName="y" calcMode="discrete" values="-264;0;-192;-240;-96;-480;-288;-48;-216;-480;-120;-264" keyTimes="0;0.14374503;0.181213;0.26801968;0.31503137;0.43594804;0.5709152;0.62078412;0.71642758;0.81486936;0.85793396;1" dur="33949ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="816" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-312">
+      <animate attributeName="y" calcMode="discrete" values="-312;-408;-168;-528;-96;-432;-360;-552;-96;-312" keyTimes="0;0.17679724;0.23274051;0.27262494;0.43148732;0.58550953;0.63282305;0.69803392;0.88383611;1" dur="26652ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="840" y="48" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-216">
+      <animate attributeName="y" calcMode="discrete" values="-216;-72;-528;-96;-336;-432;-312;-384;-312;-120;-168;-360;-216" keyTimes="0;0.09741797;0.14635246;0.17843049;0.27359342;0.34355621;0.45489909;0.50611681;0.57269703;0.64877664;0.74236103;0.86686774;1" dur="35476ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="0" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-552">
+      <animate attributeName="y" calcMode="discrete" values="-552;-168;-360;-240;-312;-96;-504;-312;-72;-384;-456;-144;-168;-264;-552" keyTimes="0;0.10995216;0.14727646;0.23654572;0.30388399;0.4109239;0.48479986;0.52747318;0.56307391;0.67552227;0.75043832;0.81739027;0.87082108;0.93355324;1" dur="33651ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="24" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-504">
+      <animate attributeName="y" calcMode="discrete" values="-504;-552;-384;-336;-120;-432;-168;-48;-384;-24;-120;-504" keyTimes="0;0.04659671;0.1508865;0.2381699;0.31379407;0.4022836;0.47633981;0.62762835;0.68017529;0.76014152;0.8406304;1" dur="24873ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="48" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-504">
+      <animate attributeName="y" calcMode="discrete" values="-504;-408;-480;-528;-480;-384;-408;-432;-264;-72;-336;-72;-504" keyTimes="0;0.09828525;0.13298974;0.21966668;0.33596648;0.4307596;0.53034536;0.63397717;0.68474544;0.80287558;0.84711719;0.88659024;1" dur="41522ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="72" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-48">
+      <animate attributeName="y" calcMode="discrete" values="-48;-24;-96;-288;-360;-72;-480;-168;-552;-408;-144;-48" keyTimes="0;0.0623839;0.1282467;0.20272233;0.25358868;0.29874692;0.45793225;0.57678927;0.70743405;0.79677103;0.90819739;1" dur="29607ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="96" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-456;-432;-480;-408;-240;-120;-408;-312;0" keyTimes="0;0.06561388;0.23646945;0.40580516;0.55408511;0.6198102;0.77320581;0.87036625;0.93534994;1" dur="26976ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="120" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-432">
+      <animate attributeName="y" calcMode="discrete" values="-432;-360;-504;-96;-456;-96;-312;-72;-336;-432" keyTimes="0;0.13962199;0.18601375;0.30948454;0.42415808;0.57628866;0.63611684;0.68477663;0.82828179;1" dur="29100ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="144" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-264">
+      <animate attributeName="y" calcMode="discrete" values="-264;0;-504;-384;-480;-24;-192;-264;-24;-408;-288;-408;-552;-264" keyTimes="0;0.08165449;0.19110873;0.29011771;0.36397897;0.39438422;0.45112362;0.52989345;0.64013865;0.69790164;0.81175266;0.8850556;0.92318429;1" dur="42986ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="168" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-552">
+      <animate attributeName="y" calcMode="discrete" values="-552;-432;-96;-24;-240;-528;-288;-432;-72;-432;-264;-504;0;-528;-552" keyTimes="0;0.07807764;0.19446074;0.28556762;0.4060086;0.4608634;0.51510707;0.55893713;0.61684756;0.70626772;0.78676542;0.82086633;0.89845507;0.96922362;1" dur="40908ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="192" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-120">
+      <animate attributeName="y" calcMode="discrete" values="-120;-432;-528;-504;-384;-240;-360;-168;-48;-216;-144;-288;-552;-360;-120" keyTimes="0;0.06473558;0.12579155;0.19737292;0.27729762;0.35161732;0.42075988;0.51822694;0.55729078;0.6626091;0.74030892;0.84004364;0.88597467;0.94189629;1" dur="46744ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="216" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-96">
+      <animate attributeName="y" calcMode="discrete" values="-96;-240;-528;-384;-144;-432;0;-240;-312;-24;-96" keyTimes="0;0.11281814;0.26416782;0.33391948;0.46043498;0.56578744;0.63344131;0.72083912;0.82619158;0.91806263;1" dur="32415ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="240" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-144">
+      <animate attributeName="y" calcMode="discrete" values="-144;-168;-264;-96;-240;-168;-312;-192;-480;-360;-144" keyTimes="0;0.10522082;0.25878117;0.3787873;0.51878806;0.56685946;0.72628031;0.77439001;0.84375838;0.91377791;1" dur="26107ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="264" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-96">
+      <animate attributeName="y" calcMode="discrete" values="-96;-144;0;-360;-48;-120;-528;-48;-456;-96" keyTimes="0;0.05934756;0.16930625;0.37979859;0.53163195;0.57660527;0.72800826;0.84110862;0.90075745;1" dur="23236ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="288" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-456">
+      <animate attributeName="y" calcMode="discrete" values="-456;-144;-504;-192;-336;-312;-504;-360;-240;-456" keyTimes="0;0.05692572;0.24094141;0.30272126;0.36445207;0.54601618;0.63554793;0.76048051;0.91679333;1" dur="20395ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="312" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-48">
+      <animate attributeName="y" calcMode="discrete" values="-48;-456;-504;-264;-384;-312;-48;-480;-24;-48" keyTimes="0;0.10862685;0.17413999;0.24261231;0.38814681;0.58797419;0.65430932;0.74949653;0.9507624;1" dur="24331ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="336" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-432">
+      <animate attributeName="y" calcMode="discrete" values="-432;-24;-360;-504;-96;-288;-240;-432;-72;-360;-432" keyTimes="0;0.09546754;0.19389247;0.29441085;0.33195986;0.48265435;0.56084269;0.6952881;0.85887552;0.93340865;1" dur="30094ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="360" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-96">
+      <animate attributeName="y" calcMode="discrete" values="-96;-336;-480;-336;-552;-312;-552;-528;0;-240;-144;-528;-264;-96" keyTimes="0;0.07853266;0.1967643;0.24265149;0.27852217;0.36135511;0.4342502;0.47620421;0.58628104;0.65214883;0.76479534;0.79662795;0.89482655;1" dur="38137ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="384" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-120">
+      <animate attributeName="y" calcMode="discrete" values="-120;-192;-312;-216;-504;-528;-336;-288;-336;-552;-24;-120" keyTimes="0;0.0459643;0.20199021;0.34863371;0.50424893;0.56269152;0.71931764;0.76512399;0.80723424;0.87259517;0.92130785;1" dur="31655ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="408" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-240">
+      <animate attributeName="y" calcMode="discrete" values="-240;-144;-456;-24;-432;-216;-528;-264;-72;-96;-240" keyTimes="0;0.1053003;0.2347731;0.36946856;0.46121815;0.52219634;0.63204884;0.6741125;0.70964782;0.85418872;1" dur="28338ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="432" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-72">
+      <animate attributeName="y" calcMode="discrete" values="-72;-240;-336;-216;-456;-504;-552;-216;-24;-336;-456;-24;-72" keyTimes="0;0.07671652;0.20233076;0.24483768;0.30721517;0.4251497;0.47829006;0.58978008;0.71112484;0.82862974;0.90113047;0.96707929;1" dur="37241ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="456" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-528">
+      <animate attributeName="y" calcMode="discrete" values="-528;-264;-48;-264;-168;-528;-312;-216;-312;-72;-240;-528" keyTimes="0;0.06497007;0.16513618;0.22759896;0.37963456;0.43059517;0.53467891;0.62124299;0.68768609;0.76757451;0.92321434;1" dur="31907ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="480" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-336">
+      <animate attributeName="y" calcMode="discrete" values="-336;-504;-528;-384;-216;0;-216;-432;-120;-432;-312;-24;-360;-96;-336" keyTimes="0;0.09122366;0.14676673;0.2283737;0.2737159;0.37163529;0.45760122;0.48854087;0.55484654;0.5889543;0.69242349;0.78903968;0.8217319;0.91414641;1" dur="44506ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="504" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-504">
+      <animate attributeName="y" calcMode="discrete" values="-504;-336;-408;-72;-120;-360;-552;-72;-120;0;-312;-504" keyTimes="0;0.04428097;0.17956656;0.21430397;0.31090408;0.44340614;0.56193371;0.65248388;0.73354731;0.84111114;0.92257222;1" dur="35207ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="528" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-264">
+      <animate attributeName="y" calcMode="discrete" values="-264;-528;-120;-96;-24;-144;-96;-504;-408;-264;-384;-216;-264" keyTimes="0;0.07785762;0.16093845;0.26877904;0.36449947;0.39782991;0.44535827;0.48319049;0.5821141;0.66432921;0.75756789;0.86864052;1" dur="34653ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="552" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-48">
+      <animate attributeName="y" calcMode="discrete" values="-48;-96;-216;-504;-24;-432;-360;-528;-504;-408;-72;-408;-48" keyTimes="0;0.08191378;0.1961653;0.28284063;0.36330303;0.45751534;0.50882286;0.62885443;0.70198355;0.78797138;0.86018384;0.97097242;1" dur="39273ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="576" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-504">
+      <animate attributeName="y" calcMode="discrete" values="-504;-144;-48;-528;-120;0;-312;-72;-432;-240;-504" keyTimes="0;0.15351969;0.2327172;0.30763565;0.42625653;0.5178703;0.58689629;0.7408018;0.8296447;0.91455929;1" dur="28511ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="600" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-360">
+      <animate attributeName="y" calcMode="discrete" values="-360;-504;-360;-288;-192;-216;-456;-528;-504;-168;-360" keyTimes="0;0.14243602;0.18196436;0.32061503;0.3880477;0.54589307;0.63466434;0.726216;0.82580732;0.91729197;1" dur="29852ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="624" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-384">
+      <animate attributeName="y" calcMode="discrete" values="-384;-288;-552;-504;-240;-48;-216;-288;-384;-288;-360;-240;-96;-360;-384" keyTimes="0;0.05588384;0.15063023;0.21748513;0.31501462;0.34560855;0.41869517;0.50777453;0.57452859;0.6159524;0.70987194;0.79520016;0.89462539;0.97600081;1" dur="49585ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="648" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-216">
+      <animate attributeName="y" calcMode="discrete" values="-216;-240;-480;-168;-360;-168;-144;-336;-552;-528;-120;-24;-480;-24;-216" keyTimes="0;0.08952148;0.12185226;0.18305747;0.23211181;0.27635731;0.34114768;0.40686117;0.50683755;0.60591228;0.69101136;0.76655718;0.83478242;0.92703033;1" dur="46581ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="672" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-192">
+      <animate attributeName="y" calcMode="discrete" values="-192;-360;-264;-48;-528;-432;-48;-144;-48;-360;-120;-528;-24;-144;-192" keyTimes="0;0.07040694;0.16574414;0.21578178;0.3224328;0.36018244;0.41571093;0.50779347;0.55654696;0.62290218;0.7180844;0.80874994;0.8539388;0.92835319;1" dur="45166ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="696" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-120">
+      <animate attributeName="y" calcMode="discrete" values="-120;-144;-528;-480;-528;-72;-120;-72;-288;-168;-432;-480;0;-120" keyTimes="0;0.10121939;0.2095519;0.30132844;0.33719143;0.45747001;0.56421632;0.63965996;0.67363934;0.79401705;0.85431744;0.90056508;0.95461981;1" dur="40348ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="720" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-456">
+      <animate attributeName="y" calcMode="discrete" values="-456;-384;-120;-24;-120;0;-312;-192;-408;-456" keyTimes="0;0.1031156;0.19322004;0.24774296;0.44361834;0.58727208;0.67233139;0.80239865;0.93003186;1" dur="22596ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="744" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-264">
+      <animate attributeName="y" calcMode="discrete" values="-264;-144;-240;-408;-24;-360;-552;-504;-240;-408;-168;-456;-168;-216;-264" keyTimes="0;0.11007641;0.16931406;0.19558001;0.3030276;0.38454341;0.49114443;0.56914029;0.62365496;0.68955377;0.75852697;0.78833515;0.85427852;0.89206229;1" dur="44887ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="768" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-192">
+      <animate attributeName="y" calcMode="discrete" values="-192;-408;-384;-504;-312;-336;-144;-552;0;-528;-192;-48;0;-192" keyTimes="0;0.10961205;0.20705416;0.27498004;0.39499986;0.48186899;0.57242765;0.63033123;0.69021724;0.73603348;0.77094634;0.85704452;0.95927751;1" dur="36319ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="792" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-120">
+      <animate attributeName="y" calcMode="discrete" values="-120;0;-144;-360;-24;-480;-96;-504;-240;-360;-432;-360;-456;-120" keyTimes="0;0.11290696;0.18582411;0.27594591;0.37699718;0.40483027;0.46003334;0.54746909;0.61170287;0.72074283;0.79995832;0.90237577;0.94521373;1" dur="43186ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="816" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-480;-264;-552;-264;-360;-288;-96;-432;-288;0" keyTimes="0;0.12022889;0.1728384;0.31502786;0.44286656;0.57415064;0.68047816;0.77158607;0.86269399;0.94286656;1" dur="33378ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="840" y="72" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;-48;-192;-312;-24;-264;-384;-480;-192;-360;-336;-192;-240;-432;-24" keyTimes="0;0.04938644;0.1342813;0.17372618;0.2318893;0.27993011;0.35655038;0.43678576;0.52569742;0.60422566;0.64433331;0.72446828;0.80432207;0.90064469;1" dur="49791ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="0" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-72">
+      <animate attributeName="y" calcMode="discrete" values="-72;-336;-528;-168;-432;-48;-456;-384;-264;0;-72" keyTimes="0;0.10816411;0.20254869;0.27707556;0.37988672;0.51498826;0.58057052;0.64670535;0.72506562;0.89473684;1" dur="28956ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="24" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-408">
+      <animate attributeName="y" calcMode="discrete" values="-408;-360;-24;-168;-336;-144;-192;-360;-456;-240;-408" keyTimes="0;0.15600788;0.29686905;0.40270545;0.44995554;0.49291884;0.52740379;0.56947796;0.72269148;0.87819129;1" dur="31492ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="48" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;-72;-552;-240;-288;-120;-288;-24;-96;-24" keyTimes="0;0.05554131;0.14621726;0.28283568;0.34720645;0.50009159;0.61062466;0.79355193;0.84231544;1" dur="27295ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="72" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-552">
+      <animate attributeName="y" calcMode="discrete" values="-552;-528;-168;-360;-312;-48;-96;-48;-528;-456;-552" keyTimes="0;0.07060364;0.24463459;0.33020059;0.43016786;0.53200542;0.61443868;0.67087483;0.73208024;0.84200683;1" dur="21387ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="96" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-264">
+      <animate attributeName="y" calcMode="discrete" values="-264;-168;-264;-240;-288;-312;-504;-192;-120;-240;0;-264" keyTimes="0;0.09027267;0.16839639;0.30198033;0.38369971;0.45727439;0.50687805;0.62488083;0.74598894;0.84478767;0.96142845;1" dur="36711ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="120" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-120">
+      <animate attributeName="y" calcMode="discrete" values="-120;-360;-288;-48;-264;-120;-96;-432;-312;-192;-120" keyTimes="0;0.06265704;0.10569138;0.21724564;0.2611973;0.45291748;0.50097715;0.63366968;0.74550313;0.84457384;1" dur="25073ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="144" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-144">
+      <animate attributeName="y" calcMode="discrete" values="-144;-336;-432;-216;-168;-72;-288;0;-528;-72;-144" keyTimes="0;0.09489293;0.18590592;0.29698027;0.41400987;0.54412295;0.68891362;0.779295;0.91094201;0.95840351;1" dur="33248ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="168" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-432">
+      <animate attributeName="y" calcMode="discrete" values="-432;-216;-408;-264;-528;-144;-72;0;-96;-432;-456;-120;-432" keyTimes="0;0.11811954;0.21178833;0.25894165;0.34356249;0.43744389;0.49785022;0.58667612;0.63387668;0.7141271;0.81715096;0.89463737;1" dur="42330ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="192" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-144">
+      <animate attributeName="y" calcMode="discrete" values="-144;-336;-360;-192;-312;-216;-384;-120;-360;-408;-24;0;-144" keyTimes="0;0.04892097;0.1172721;0.23339221;0.29339784;0.38880782;0.46770601;0.59007245;0.62703837;0.72040038;0.78462996;0.90489722;1" dur="39063ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="216" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-456">
+      <animate attributeName="y" calcMode="discrete" values="-456;-168;-288;-168;-192;-336;-384;-312;-264;-192;0;-72;-528;-456" keyTimes="0;0.04404251;0.15580239;0.22536721;0.30314296;0.40349877;0.43953563;0.55061126;0.63294864;0.72990603;0.84013776;0.92525773;0.95221695;1" dur="43844ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="240" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-336">
+      <animate attributeName="y" calcMode="discrete" values="-336;-72;-336;0;-384;-240;-384;-528;0;-360;-288;-336" keyTimes="0;0.08535294;0.18235804;0.24084358;0.34131544;0.48287484;0.59881873;0.67377139;0.72317273;0.82123712;0.92681283;1" dur="31153ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="264" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-384">
+      <animate attributeName="y" calcMode="discrete" values="-384;-432;-168;-120;-552;-144;-96;-240;-504;-96;-192;-216;-384" keyTimes="0;0.07432726;0.12215169;0.19864909;0.31410048;0.39127604;0.47911241;0.60853407;0.70865885;0.80023872;0.87836372;0.96432834;1" dur="36864ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="288" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-144">
+      <animate attributeName="y" calcMode="discrete" values="-144;-336;-408;-504;-312;-408;-120;-264;-288;-48;0;-144" keyTimes="0;0.05138094;0.11066186;0.23115203;0.34769221;0.39642946;0.45232023;0.50594053;0.65544912;0.80685494;0.88401966;1" dur="32152ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="312" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-528;-72;-504;-24;-72;-120;-144;-120;-528;-120;0" keyTimes="0;0.11882159;0.26444529;0.33690906;0.39329789;0.51427125;0.59243086;0.62907411;0.70913233;0.84466173;0.95924309;1" dur="31602ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="336" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-552">
+      <animate attributeName="y" calcMode="discrete" values="-552;-336;-96;-552;-360;-264;-456;-192;-312;-360;-480;-552" keyTimes="0;0.0675549;0.15630238;0.27746371;0.35808642;0.46760035;0.52012727;0.65043607;0.77307463;0.91275816;0.95108094;1" dur="35201ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="360" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-288">
+      <animate attributeName="y" calcMode="discrete" values="-288;-144;-96;-216;-96;-312;-120;-504;-48;-288" keyTimes="0;0.10937374;0.1959596;0.27317172;0.4410101;0.54662626;0.73563636;0.85907071;0.93111111;1" dur="24750ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="384" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-240">
+      <animate attributeName="y" calcMode="discrete" values="-240;-192;-24;-216;-360;-552;-96;-168;-72;-216;-192;-240" keyTimes="0;0.11313969;0.21823523;0.28286295;0.38331869;0.45505711;0.5486767;0.65539205;0.70651219;0.83810125;0.93935317;1" dur="36424ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="408" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-120">
+      <animate attributeName="y" calcMode="discrete" values="-120;-552;0;-552;0;-504;-432;-552;-408;-384;-120" keyTimes="0;0.03867228;0.10802786;0.25179398;0.33157765;0.46328962;0.58945173;0.6437131;0.71204355;0.88688183;1" dur="28289ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="432" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-480">
+      <animate attributeName="y" calcMode="discrete" values="-480;-456;-168;-96;-480;-240;-480;-216;-96;-168;-192;-312;-144;-480" keyTimes="0;0.06449296;0.15306904;0.20793833;0.30692809;0.40318874;0.48171024;0.54340228;0.63796323;0.69623193;0.76931916;0.86610648;0.91618788;1" dur="41772ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="456" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-480">
+      <animate attributeName="y" calcMode="discrete" values="-480;0;-240;-96;-216;-552;-240;-72;-384;-48;-480" keyTimes="0;0.0990904;0.20705875;0.29801882;0.34645816;0.4977883;0.60597471;0.70746371;0.77060619;0.89651735;1" dur="32102ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="480" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-96">
+      <animate attributeName="y" calcMode="discrete" values="-96;0;-120;-432;0;-264;-408;-552;-192;-240;-360;-504;0;-48;-96" keyTimes="0;0.12582256;0.17516323;0.23003457;0.2692613;0.32774293;0.35388555;0.4807067;0.5104084;0.56960696;0.62173857;0.71537575;0.84147996;0.9604148;1" dur="39055ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="504" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-144">
+      <animate attributeName="y" calcMode="discrete" values="-144;-312;-240;0;-144;-96;-336;-72;-264;-168;-72;-168;-96;-144" keyTimes="0;0.07632797;0.15141259;0.20759365;0.29248693;0.36006539;0.43489673;0.52895397;0.59779881;0.71036817;0.77711773;0.81469457;0.91837628;1" dur="43431ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="528" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;-144;-240;-336;-552;0;-240;-552;-480;-384;-552;-336;-24" keyTimes="0;0.11813913;0.14629195;0.24143919;0.29757362;0.39076411;0.43073085;0.48874865;0.59460914;0.67265923;0.79488308;0.91395167;1" dur="40884ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="552" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-552">
+      <animate attributeName="y" calcMode="discrete" values="-552;-288;-24;-48;-384;-480;-24;-192;-360;-168;-552" keyTimes="0;0.06032109;0.12960461;0.25539045;0.34672936;0.47656778;0.56063283;0.65688159;0.78466774;0.88821635;1" dur="38494ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="576" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-192">
+      <animate attributeName="y" calcMode="discrete" values="-192;-456;-216;-168;-288;-144;-72;-288;-48;-168;-192" keyTimes="0;0.06386914;0.20094214;0.26801919;0.40567019;0.54144269;0.57369516;0.69915034;0.80538697;0.91749032;1" dur="34602ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="600" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-120">
+      <animate attributeName="y" calcMode="discrete" values="-120;-144;-24;-480;-24;-312;-168;-456;-240;-432;-72;-288;-120" keyTimes="0;0.05535774;0.15705613;0.27630197;0.39700797;0.52237621;0.58395881;0.67336117;0.77462407;0.83323514;0.86863745;0.94190127;1" dur="39037ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="624" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-240">
+      <animate attributeName="y" calcMode="discrete" values="-240;-360;-216;-432;-552;-528;-216;-384;-456;-144;-168;0;-432;-240" keyTimes="0;0.12164332;0.2163591;0.25008029;0.33444502;0.40453074;0.45720003;0.5714321;0.67600484;0.70984955;0.78937227;0.88401393;0.92860496;1" dur="40479ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="648" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-552">
+      <animate attributeName="y" calcMode="discrete" values="-552;-216;-432;-480;-168;-336;-480;-432;-264;-432;-336;-96;-408;-552" keyTimes="0;0.12917424;0.23466606;0.30687756;0.36210813;0.45644025;0.49608133;0.58873807;0.64524648;0.76973535;0.81207406;0.84211722;0.90566788;1" dur="35216ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="672" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-96">
+      <animate attributeName="y" calcMode="discrete" values="-96;0;-528;-336;-384;-192;-264;-480;-72;-408;-240;-96" keyTimes="0;0.08536191;0.1628577;0.21772627;0.30600155;0.43477276;0.5472938;0.64884112;0.75893435;0.79366826;0.85805387;1" dur="30892ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="696" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-504;-120;-552;-528;-504;-216;-144;-408;-24;0" keyTimes="0;0.09567314;0.18858647;0.25076132;0.40784799;0.49200609;0.59570486;0.69699277;0.81566426;0.91631773;1" dur="31524ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="720" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-192">
+      <animate attributeName="y" calcMode="discrete" values="-192;-504;-360;-504;-360;-456;-480;-264;-312;-192" keyTimes="0;0.13085494;0.26824403;0.41866703;0.54587661;0.67535594;0.75624183;0.80132746;0.91402435;1" dur="29078ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="744" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-360">
+      <animate attributeName="y" calcMode="discrete" values="-360;-288;-120;-552;-264;-456;-504;-552;-72;-360" keyTimes="0;0.0635668;0.21431292;0.27424437;0.41834297;0.48461032;0.54925042;0.69480317;0.83453935;1" dur="28883ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="768" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-384">
+      <animate attributeName="y" calcMode="discrete" values="-384;-504;-192;-528;-408;-336;-192;-408;-120;-384" keyTimes="0;0.1107351;0.21248355;0.37349126;0.44538447;0.59432224;0.69979319;0.87110359;0.94013912;1" dur="26595ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="792" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-456">
+      <animate attributeName="y" calcMode="discrete" values="-456;-24;-192;-264;-336;0;-144;-456;-216;-432;-384;-288;-456" keyTimes="0;0.07789109;0.16181699;0.24155595;0.30517871;0.34197231;0.45462201;0.55335423;0.63267216;0.7238024;0.80279285;0.90337294;1" dur="42752ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="816" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-264">
+      <animate attributeName="y" calcMode="discrete" values="-264;0;-288;-432;-336;-408;-312;-24;-240;-72;-264" keyTimes="0;0.09481561;0.18790215;0.31505995;0.41755719;0.50052439;0.63593072;0.71198163;0.76864424;0.88709997;1" dur="35279ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="840" y="96" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-48">
+      <animate attributeName="y" calcMode="discrete" values="-48;-384;-192;-240;-216;-240;0;-288;-360;-264;-432;-504;-336;-408;-48" keyTimes="0;0.07877039;0.15015677;0.22106602;0.25687281;0.3552506;0.40150861;0.49100286;0.51594947;0.59242514;0.68678148;0.77904758;0.83623393;0.90698414;1" dur="44014ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="0" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-72">
+      <animate attributeName="y" calcMode="discrete" values="-72;-144;-168;-288;-336;-216;-264;-432;-288;-72" keyTimes="0;0.14546931;0.19372375;0.34572346;0.40223799;0.54858978;0.60870486;0.76896467;0.89583113;1" dur="28329ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="24" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-48">
+      <animate attributeName="y" calcMode="discrete" values="-48;-456;-480;-384;-504;-480;-24;-432;-240;-96;-144;-48" keyTimes="0;0.09214698;0.19530631;0.25597328;0.29368135;0.41954479;0.54300193;0.67316838;0.7448477;0.81686672;0.87982675;1" dur="35324ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="48" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-480">
+      <animate attributeName="y" calcMode="discrete" values="-480;-192;-528;-360;-384;-48;-264;-408;-264;-480" keyTimes="0;0.13977293;0.21565312;0.358204;0.48143004;0.57427985;0.66954526;0.81928257;0.94794372;1" dur="33118ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="72" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-288">
+      <animate attributeName="y" calcMode="discrete" values="-288;-24;-240;-72;-216;-360;-264;-384;-288;-144;-168;-432;-408;-288" keyTimes="0;0.12609562;0.20036589;0.30063075;0.33593643;0.42828277;0.51636949;0.55030991;0.68020097;0.76198018;0.79807771;0.90601535;0.94375119;1" dur="36623ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="96" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-240">
+      <animate attributeName="y" calcMode="discrete" values="-240;-384;-264;-360;0;-48;-144;-408;-312;-264;-48;-384;-48;-336;-240" keyTimes="0;0.09136741;0.15390781;0.20217689;0.27704956;0.3293777;0.36428036;0.42245146;0.50740712;0.62129321;0.69489904;0.80945733;0.84823806;0.90082474;1" dur="38679ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="120" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-120">
+      <animate attributeName="y" calcMode="discrete" values="-120;-24;-264;-336;-432;-120;-264;0;-168;-288;-96;-120" keyTimes="0;0.13772278;0.26209367;0.29240926;0.3417017;0.42808929;0.48617443;0.62869323;0.77056072;0.82820179;0.87009296;1" dur="33778ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="144" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-456">
+      <animate attributeName="y" calcMode="discrete" values="-456;-72;-96;-360;-192;-384;-504;-312;-360;-480;-528;-48;-456" keyTimes="0;0.11230812;0.1954834;0.24712338;0.32873075;0.43625926;0.51766431;0.58819513;0.7054093;0.7494879;0.78011279;0.88984144;1" dur="39543ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="168" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-216;-144;-384;-408;-528;-480;-168;0;-144;-360;-72;0" keyTimes="0;0.09462352;0.24430244;0.32598842;0.47358978;0.57825485;0.67873332;0.72012717;0.80083732;0.86108663;0.90950013;0.95901536;1" dur="31768ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="192" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-48;-96;-192;-504;-384;-360;-240;-384;-408;0" keyTimes="0;0.106272;0.22191595;0.32895127;0.38806666;0.43170349;0.49913066;0.63284;0.82833637;0.92354014;1" dur="23581ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="216" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-216;-240;-336;-72;-480;-96;-72;-48;-408;0" keyTimes="0;0.11009768;0.26308299;0.38201048;0.45905298;0.49505143;0.53793906;0.6239084;0.71278867;0.8608901;1" dur="30918ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="240" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-48">
+      <animate attributeName="y" calcMode="discrete" values="-48;-528;-120;-384;-216;-144;-384;-96;-72;-48" keyTimes="0;0.14332397;0.17639873;0.30784266;0.44936477;0.58102248;0.7173528;0.78771683;0.93925605;1" dur="32744ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="264" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-432">
+      <animate attributeName="y" calcMode="discrete" values="-432;-360;-144;-216;-144;-240;-312;-360;-240;-408;-72;-120;-312;-384;-432" keyTimes="0;0.03490025;0.13808759;0.22102729;0.25874799;0.31935336;0.41669342;0.50949324;0.53320339;0.61809218;0.73267599;0.80559505;0.86299014;0.89642284;1" dur="43610ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="288" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-552">
+      <animate attributeName="y" calcMode="discrete" values="-552;-360;-96;-408;-168;-120;-408;-480;-120;-552" keyTimes="0;0.15333458;0.20575378;0.25286755;0.38867925;0.47027835;0.58255184;0.76338502;0.93502709;1" dur="26765ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="312" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-48">
+      <animate attributeName="y" calcMode="discrete" values="-48;-456;-192;-456;-288;-432;-168;-120;-336;-144;-48;-384;-288;-168;-48" keyTimes="0;0.0369304;0.13649852;0.24226577;0.30493287;0.33551723;0.42095367;0.45709081;0.53347827;0.56321062;0.69618356;0.77283544;0.81402591;0.94920234;1" dur="34037ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="336" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-360">
+      <animate attributeName="y" calcMode="discrete" values="-360;-288;-264;-24;-96;-24;0;-480;-432;-96;-144;-72;-360" keyTimes="0;0.10584438;0.15262278;0.2205545;0.36839445;0.41976125;0.47843839;0.5801221;0.66426877;0.74857098;0.79142202;0.9049267;1" dur="25717ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="360" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-480;-528;-72;-192;-288;-360;-144;-336;-24;-120;-192;-408;-432;0" keyTimes="0;0.11785216;0.18401995;0.21566892;0.25421092;0.31423667;0.40929085;0.54243107;0.6317187;0.6673372;0.75683939;0.78583307;0.85111576;0.92806566;1" dur="37284ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="384" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-264">
+      <animate attributeName="y" calcMode="discrete" values="-264;-504;-456;-360;-48;-240;-528;-360;-384;-264" keyTimes="0;0.16816212;0.21814336;0.34123708;0.46416021;0.50660162;0.64279622;0.73586708;0.90385862;1" dur="29311ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="408" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-144">
+      <animate attributeName="y" calcMode="discrete" values="-144;-480;-504;-72;-456;0;-408;-192;-456;-480;-264;-408;-264;-168;-144" keyTimes="0;0.10639759;0.19299101;0.29099287;0.39455496;0.42756192;0.53156706;0.62496123;0.70541846;0.73450445;0.76791015;0.8309778;0.88268132;0.92609986;1" dur="45142ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="432" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;-216;-312;-72;-120;-384;-24;-336;-504;-24" keyTimes="0;0.13789068;0.22046675;0.37167837;0.4582817;0.62377805;0.69341181;0.79175272;0.84631006;1" dur="29052ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="456" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-504">
+      <animate attributeName="y" calcMode="discrete" values="-504;-144;-24;-288;-432;-336;-96;-504;-408;-72;-480;-144;-336;-264;-504" keyTimes="0;0.10600576;0.14942428;0.22575017;0.30009159;0.37990666;0.41571441;0.49779745;0.60676902;0.6453463;0.70645063;0.76395673;0.86038904;0.93215719;1" dur="45856ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="480" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-408">
+      <animate attributeName="y" calcMode="discrete" values="-408;-288;-384;-456;-264;-336;-48;-72;-336;-408" keyTimes="0;0.0756383;0.16329787;0.22241135;0.34507092;0.44847518;0.60230496;0.74088652;0.90943262;1" dur="28200ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="504" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-312">
+      <animate attributeName="y" calcMode="discrete" values="-312;-384;-432;-504;0;-192;-96;-288;-168;-552;-96;-480;-528;-312" keyTimes="0;0.13815498;0.28739783;0.34594184;0.39694608;0.51827916;0.59481721;0.6362542;0.70544256;0.75093455;0.80922512;0.84277387;0.930083;1" dur="31566ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="528" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-432">
+      <animate attributeName="y" calcMode="discrete" values="-432;-144;-384;-528;-240;-144;-216;0;-456;-432" keyTimes="0;0.17290216;0.3229474;0.47751682;0.65274008;0.73291632;0.80963059;0.86289783;0.92301035;1" dur="25419ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="552" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-312">
+      <animate attributeName="y" calcMode="discrete" values="-312;-480;-384;-312;-528;-120;-96;-552;-168;-48;-24;-312" keyTimes="0;0.08009331;0.21368048;0.31621709;0.37732611;0.50316405;0.57749236;0.61484421;0.73590926;0.84067142;0.87448383;1" dur="37294ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="576" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-408">
+      <animate attributeName="y" calcMode="discrete" values="-408;-312;-168;-432;-312;-24;-288;-24;-480;-552;-432;-120;-24;-120;-408" keyTimes="0;0.03830055;0.11625656;0.20735041;0.24843338;0.29324236;0.39307058;0.45660642;0.57095159;0.60380828;0.67525586;0.75867993;0.82889357;0.89511505;1" dur="41331ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="600" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-72">
+      <animate attributeName="y" calcMode="discrete" values="-72;-552;-168;-408;-384;-288;-168;-192;-480;-72;-312;-240;-384;-72" keyTimes="0;0.07800984;0.10136744;0.17899177;0.23892782;0.33269837;0.44368098;0.55396059;0.60586888;0.71172642;0.80549697;0.90053745;0.97623421;1" dur="44097ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="624" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-120">
+      <animate attributeName="y" calcMode="discrete" values="-120;-96;-312;-288;-552;-480;-408;-168;-144;0;-432;-360;-552;-216;-120" keyTimes="0;0.03280461;0.10034004;0.1959235;0.24521886;0.29606699;0.37437349;0.45877312;0.54370344;0.59470881;0.68089707;0.76887395;0.8612143;0.93116733;1" dur="50877ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="648" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-168">
+      <animate attributeName="y" calcMode="discrete" values="-168;-24;-168;-192;-120;-528;-264;-120;-192;-168" keyTimes="0;0.14802427;0.2927038;0.35430927;0.44170037;0.5091397;0.70297915;0.81211108;0.86624922;1" dur="25712ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="672" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-456">
+      <animate attributeName="y" calcMode="discrete" values="-456;-312;0;-216;-288;-240;-456;-48;-456;-168;-120;-168;-360;-456" keyTimes="0;0.11871147;0.17359316;0.28817856;0.3854146;0.46999901;0.53469875;0.61896003;0.65790913;0.75812786;0.80433486;0.85750149;0.932069;1" dur="40232ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="696" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-312">
+      <animate attributeName="y" calcMode="discrete" values="-312;-168;-192;-120;-552;-456;-192;-432;-312;-528;-216;-120;-384;-312" keyTimes="0;0.06293336;0.19247584;0.26846927;0.38832113;0.46821308;0.50377322;0.6246554;0.71465568;0.7717134;0.80493442;0.87566484;0.97190276;1" dur="35911ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="720" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-264">
+      <animate attributeName="y" calcMode="discrete" values="-264;-528;-312;-240;-456;-48;-288;-192;-144;-432;-504;-336;-24;-264" keyTimes="0;0.05084507;0.09797607;0.19663384;0.22803883;0.33917867;0.44994241;0.50736936;0.60379399;0.71890647;0.76855269;0.86450718;0.95623046;1" dur="42541ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="744" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-72">
+      <animate attributeName="y" calcMode="discrete" values="-72;-168;-192;-384;-264;-336;0;-144;-216;-528;-120;-72" keyTimes="0;0.05353722;0.14701542;0.2630389;0.3570823;0.46980877;0.50717493;0.65773856;0.74355512;0.78045028;0.84343894;1" dur="31847ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="768" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-336;-240;-120;-528;-72;-504;-144;-264;0;-48;0" keyTimes="0;0.11313507;0.23420765;0.30376269;0.35212558;0.45437199;0.49726512;0.60475233;0.63433994;0.75096039;0.87343221;1" dur="39307ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="792" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-96">
+      <animate attributeName="y" calcMode="discrete" values="-96;-48;-288;-528;-120;-240;0;-288;-144;-120;-24;-48;-432;-384;-96" keyTimes="0;0.09481491;0.13402937;0.23170302;0.33496986;0.41563607;0.50322126;0.58009653;0.61953887;0.66563089;0.75126883;0.8242703;0.88498747;0.97657075;1" dur="48273ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="816" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-288">
+      <animate attributeName="y" calcMode="discrete" values="-288;-552;-408;-552;-72;-552;-96;-24;-216;-528;-504;-456;-264;-96;-288" keyTimes="0;0.06316047;0.13495409;0.19689288;0.27094659;0.31396982;0.41384155;0.47722599;0.53902225;0.63559546;0.72504225;0.79176593;0.87787348;0.97505752;1" dur="49113ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="840" y="120" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-48">
+      <animate attributeName="y" calcMode="discrete" values="-48;-432;-24;-552;-96;-288;-480;-528;-336;-528;-456;-96;-552;-264;-48" keyTimes="0;0.0465359;0.12159538;0.24066612;0.28788173;0.34000097;0.40685537;0.5046366;0.59996601;0.64023887;0.67497694;0.74751177;0.80288392;0.91768219;1" dur="41194ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="0" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-504">
+      <animate attributeName="y" calcMode="discrete" values="-504;-48;-408;-264;-72;-168;-384;-336;-312;-528;-336;-72;-336;-120;-504" keyTimes="0;0.09452667;0.14166984;0.2253019;0.31408087;0.37918811;0.45058378;0.53916248;0.58025755;0.62471712;0.71958424;0.81941802;0.91576713;0.9549997;1" dur="49933ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="24" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-168">
+      <animate attributeName="y" calcMode="discrete" values="-168;-480;-264;-384;-288;-240;-168;-480;-144;-360;-384;0;-168" keyTimes="0;0.12092466;0.18163663;0.30445854;0.35266364;0.41886764;0.46168056;0.55619352;0.63717609;0.73061561;0.83843427;0.88968496;1" dur="40058ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="48" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-312">
+      <animate attributeName="y" calcMode="discrete" values="-312;-528;-192;-528;-120;-48;-240;-144;-216;-288;-72;-312" keyTimes="0;0.12461;0.22368493;0.29005419;0.32856204;0.43746237;0.50451585;0.57920521;0.70518364;0.81925666;0.88663857;1" dur="36538ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="72" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-480">
+      <animate attributeName="y" calcMode="discrete" values="-480;-408;-480;-384;-168;-360;-216;-336;-312;0;-480" keyTimes="0;0.12805926;0.2685037;0.35845926;0.44702222;0.50794074;0.6088;0.71682963;0.8306963;0.94758519;1" dur="33750ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="96" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-312">
+      <animate attributeName="y" calcMode="discrete" values="-312;-168;-528;-336;-48;-360;-336;-552;-456;-120;-240;-408;-312" keyTimes="0;0.09142149;0.22308646;0.29000864;0.36275504;0.44951715;0.48923458;0.55893736;0.63472739;0.67418179;0.74189306;0.82478488;1" dur="26613ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="120" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-216">
+      <animate attributeName="y" calcMode="discrete" values="-216;-264;-312;-528;-264;-192;-456;-24;-192;-360;-552;-312;-480;-264;-216" keyTimes="0;0.04456745;0.14739742;0.24414646;0.27889088;0.36103532;0.40661625;0.46266989;0.50422286;0.55796367;0.68298641;0.7847769;0.85499337;0.95642005;1" dur="38481ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="144" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-96">
+      <animate attributeName="y" calcMode="discrete" values="-96;-336;-216;-528;-48;0;-96;-552;-192;-96" keyTimes="0;0.16119172;0.30105468;0.46872901;0.57765686;0.66935376;0.70700658;0.75114201;0.88714228;1" dur="29772ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="168" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-336">
+      <animate attributeName="y" calcMode="discrete" values="-336;-264;-360;-312;-72;-312;-72;-24;-120;-336" keyTimes="0;0.07435853;0.1393835;0.28947822;0.3827794;0.49805407;0.63557775;0.74572068;0.87725159;1" dur="29035ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="192" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-288">
+      <animate attributeName="y" calcMode="discrete" values="-288;-264;-312;-504;-552;-96;-48;-432;-72;-168;-120;-336;-120;-288" keyTimes="0;0.05411765;0.13276933;0.26030403;0.34233972;0.39524124;0.4402115;0.53850628;0.63722406;0.67206874;0.75600793;0.7830271;0.88853933;1" dur="37825ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="216" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-528">
+      <animate attributeName="y" calcMode="discrete" values="-528;-432;-168;-408;-72;-192;-432;-168;-240;-216;-528" keyTimes="0;0.09744773;0.20313048;0.30709029;0.3390375;0.46244598;0.5332321;0.67798738;0.79873847;0.92381147;1" dur="34244ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="240" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-288">
+      <animate attributeName="y" calcMode="discrete" values="-288;-504;-528;-408;-312;0;-168;-144;-216;-432;-216;-288" keyTimes="0;0.0757937;0.17232401;0.28115196;0.40986949;0.52271301;0.58404442;0.63081943;0.69848789;0.77525411;0.86199649;1" dur="31876ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="264" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-528;-504;-552;-360;-240;-408;0;-312;0;-288;-240;-168;-120;0" keyTimes="0;0.11254569;0.18438935;0.22195145;0.30926047;0.35364139;0.43820883;0.51509045;0.56626675;0.63656388;0.67712532;0.73111351;0.8150717;0.90917612;1" dur="42676ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="288" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-528">
+      <animate attributeName="y" calcMode="discrete" values="-528;-72;-288;-360;-168;0;-144;-360;-264;-192;-528" keyTimes="0;0.09569149;0.24036648;0.31806342;0.45863649;0.58286176;0.64977993;0.71711728;0.76948412;0.90215276;1" dur="33399ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="312" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-552">
+      <animate attributeName="y" calcMode="discrete" values="-552;-144;-432;-456;-408;-312;-120;-312;-144;-264;-288;-360;-168;-552" keyTimes="0;0.08377583;0.20477367;0.27359235;0.34785237;0.42894695;0.49518953;0.56214184;0.67351874;0.70395878;0.75992324;0.84893013;0.92844751;1" dur="38042ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="336" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-552">
+      <animate attributeName="y" calcMode="discrete" values="-552;-72;0;-120;-552;-96;-24;-552;-384;0;-168;-408;-456;-552" keyTimes="0;0.04085325;0.1812717;0.21337068;0.25632496;0.3918702;0.51965333;0.6507339;0.68367913;0.7423619;0.79354519;0.88823718;0.91902302;1" dur="34269ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="360" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-384">
+      <animate attributeName="y" calcMode="discrete" values="-384;-192;-360;-312;-288;-336;-456;-264;-432;-336;-408;-312;-120;-24;-384" keyTimes="0;0.08766077;0.18276762;0.24576927;0.2894546;0.38661638;0.41835896;0.44466202;0.47461561;0.56575766;0.5930761;0.67375012;0.77183058;0.8854076;1" dur="41364ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="384" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-384">
+      <animate attributeName="y" calcMode="discrete" values="-384;-408;-384;-120;-504;-168;-216;-264;-240;-264;-96;-168;-384" keyTimes="0;0.11227402;0.19124643;0.26929115;0.35004757;0.40451951;0.45030923;0.54412464;0.64019981;0.73722645;0.78808278;0.88268316;1" dur="42040ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="408" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-528">
+      <animate attributeName="y" calcMode="discrete" values="-528;-264;-168;-408;-192;-432;-528;-24;0;-528" keyTimes="0;0.10287905;0.16738156;0.22847209;0.3645285;0.50630402;0.64590239;0.73406122;0.88620264;1" dur="30774ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="432" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-528">
+      <animate attributeName="y" calcMode="discrete" values="-528;-384;-288;-480;-312;-72;-456;-168;0;-528" keyTimes="0;0.08878077;0.16346474;0.25390885;0.42847638;0.50008317;0.61818031;0.66437957;0.81894544;1" dur="24048ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="456" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-288">
+      <animate attributeName="y" calcMode="discrete" values="-288;-528;-216;-408;-432;-144;-312;-480;-336;-288" keyTimes="0;0.06461937;0.14595533;0.25228108;0.41658723;0.56407463;0.72412502;0.77676018;0.88026011;1" dur="29372ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="480" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-480">
+      <animate attributeName="y" calcMode="discrete" values="-480;-528;-360;-504;-480;-336;-240;-264;-528;-264;-168;-480" keyTimes="0;0.15025527;0.21515698;0.24780655;0.38604751;0.48255938;0.58497142;0.68264498;0.7251689;0.86735349;0.92366482;1" dur="32711ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="504" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-288">
+      <animate attributeName="y" calcMode="discrete" values="-288;-240;-144;-96;-360;-528;-72;-528;-72;-48;-288" keyTimes="0;0.11270439;0.16613678;0.32335193;0.4832598;0.54389437;0.65504153;0.75895406;0.83827537;0.90238126;1" dur="30824ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="528" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-504">
+      <animate attributeName="y" calcMode="discrete" values="-504;-432;-240;-384;-288;-384;-408;-168;-216;-312;-504" keyTimes="0;0.14175527;0.18785367;0.26238962;0.43470896;0.47543702;0.63766444;0.67727518;0.80176608;0.89111552;1" dur="27745ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="552" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-504">
+      <animate attributeName="y" calcMode="discrete" values="-504;-384;0;-240;-456;-120;-432;-192;-456;-504;-24;-48;-504" keyTimes="0;0.03350387;0.16146762;0.27343956;0.30779126;0.34913024;0.4740535;0.61096331;0.64815086;0.75372022;0.79049847;0.86259319;1" dur="34205ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="576" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-48">
+      <animate attributeName="y" calcMode="discrete" values="-48;-240;-552;-456;-528;-48;-552;-216;-288;-96;-192;-504;-168;-48" keyTimes="0;0.08756945;0.1404693;0.17479451;0.26158332;0.28858429;0.4015475;0.44856959;0.51754144;0.6304817;0.69226707;0.78975525;0.8977591;1" dur="43554ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="600" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-432;-360;-456;-480;-384;-24;-168;-480;-192;-144;-360;-192;-504;0" keyTimes="0;0.06617887;0.14651379;0.21291896;0.28030474;0.37995021;0.41932564;0.51260969;0.55261371;0.60038722;0.69759372;0.7891177;0.86105454;0.96862035;1" dur="39771ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="624" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-528">
+      <animate attributeName="y" calcMode="discrete" values="-528;-552;-192;-408;-312;-480;0;-456;-216;-96;-480;-216;-48;-528" keyTimes="0;0.06194953;0.18284973;0.30256119;0.32979413;0.39911925;0.46728265;0.53744529;0.56975739;0.63513806;0.70089696;0.82790296;0.93610526;1" dur="37014ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="648" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-288;-120;-72;-240;-48;-216;-240;-336;-264;-312;-288;-336;0" keyTimes="0;0.07371243;0.1446897;0.2647083;0.30650146;0.33904981;0.39892235;0.51686223;0.56554799;0.65769536;0.70096551;0.8340855;0.88892536;1" dur="36561ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="672" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-456">
+      <animate attributeName="y" calcMode="discrete" values="-456;-360;-48;-264;-216;-552;-504;-432;-528;-456" keyTimes="0;0.14177205;0.28365978;0.32260179;0.49865052;0.62592535;0.73465453;0.83921962;0.92161474;1" dur="25936ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="696" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-120">
+      <animate attributeName="y" calcMode="discrete" values="-120;-336;-264;-288;-552;-528;-480;-48;-144;-552;-144;-456;-120" keyTimes="0;0.10301527;0.14830823;0.23196338;0.30549091;0.38653743;0.46190635;0.58103373;0.67908749;0.755684;0.78514616;0.87330247;1" dur="39101ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="720" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-552">
+      <animate attributeName="y" calcMode="discrete" values="-552;-360;-24;-72;-480;-264;-192;-312;-192;-120;-528;-552" keyTimes="0;0.10008074;0.17509924;0.26794725;0.39712709;0.50195115;0.5910987;0.64122317;0.72519007;0.8881787;0.92989302;1" dur="29726ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="744" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-336">
+      <animate attributeName="y" calcMode="discrete" values="-336;-144;-360;-120;-480;-48;-504;-432;-288;-24;0;-144;-192;-312;-336" keyTimes="0;0.0361484;0.13212134;0.23337914;0.27396681;0.37186344;0.43511257;0.53594757;0.63232216;0.66485572;0.76353451;0.80156432;0.87134552;0.93491174;1" dur="47305ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="768" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-72">
+      <animate attributeName="y" calcMode="discrete" values="-72;-168;-120;-168;-480;-96;-168;-480;-216;-192;-336;-72" keyTimes="0;0.07064719;0.18612113;0.22721995;0.34257166;0.46140683;0.52102304;0.6484141;0.77238281;0.84856078;0.95471491;1" dur="32726ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="792" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-528">
+      <animate attributeName="y" calcMode="discrete" values="-528;-96;-216;-24;-168;-480;-48;-72;-528;-432;-504;-360;-456;-384;-528" keyTimes="0;0.06361072;0.1320599;0.17423009;0.19892683;0.27952945;0.37159761;0.47604852;0.55697218;0.62033067;0.72459813;0.80921369;0.87743356;0.91680616;1" dur="43609ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="816" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-528">
+      <animate attributeName="y" calcMode="discrete" values="-528;-504;-552;-24;-216;-168;-360;-72;-288;-528;-144;-480;-336;-120;-528" keyTimes="0;0.04852907;0.12312726;0.15444136;0.25728975;0.3780282;0.42588217;0.51769532;0.58876224;0.63051437;0.66652819;0.71591411;0.83104406;0.88471425;1" dur="38513ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="840" y="144" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-336">
+      <animate attributeName="y" calcMode="discrete" values="-336;-360;-480;-408;-72;-264;-336;-552;-456;-240;-48;-72;-192;-312;-336" keyTimes="0;0.06705818;0.13848504;0.21389864;0.25448208;0.30194084;0.34531739;0.42302275;0.52433813;0.58676502;0.6743059;0.71942515;0.82525245;0.92117262;1" dur="41889ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="0" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-264;0;-144;-432;-336;-264;-504;0;-216;0" keyTimes="0;0.12294679;0.1853054;0.26146684;0.39736402;0.46847644;0.56391594;0.65617521;0.81843218;0.85531622;1" dur="30501ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="24" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;-456;-264;-336;-216;-408;-480;-432;-144;-408;-312;-456;-168;-24" keyTimes="0;0.04895121;0.15822498;0.2631722;0.34240928;0.38372672;0.48756399;0.57912382;0.66984551;0.73510624;0.75970643;0.8662846;0.96253341;1" dur="44146ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="48" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;-288;-96;-384;-168;-504;-552;-528;-240;-336;-312;-456;-24" keyTimes="0;0.13322193;0.17480755;0.29561954;0.32441169;0.37983179;0.49995891;0.59995069;0.64578254;0.71333863;0.84316358;0.95014108;1" dur="36503ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="72" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-432">
+      <animate attributeName="y" calcMode="discrete" values="-432;-456;-72;-480;-528;-504;-432;-480;-144;-432;-288;-144;-432" keyTimes="0;0.07708047;0.13820081;0.25567512;0.32748369;0.42976818;0.52126814;0.56180641;0.68137503;0.73902891;0.81938326;0.89882285;1" dur="41541ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="96" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-384">
+      <animate attributeName="y" calcMode="discrete" values="-384;-288;-432;-96;-408;-480;-120;-432;-360;-192;0;-384" keyTimes="0;0.06526359;0.13097671;0.3187168;0.35991009;0.46089089;0.57605231;0.65639559;0.72942378;0.80110339;0.93477728;1" dur="24470ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="120" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-144">
+      <animate attributeName="y" calcMode="discrete" values="-144;-336;-384;-72;-432;-120;-456;-480;-72;0;-144" keyTimes="0;0.10681252;0.20200965;0.26226838;0.35045939;0.48987493;0.57443997;0.69827613;0.80127831;0.89398642;1" dur="32543ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="144" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-240;-480;-240;-144;0;-48;-360;-144;-240;0" keyTimes="0;0.04736094;0.21076115;0.26542618;0.34864659;0.48550749;0.63727402;0.68582477;0.78434742;0.93062762;1" dur="30257ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="168" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-216">
+      <animate attributeName="y" calcMode="discrete" values="-216;-408;-144;-120;-72;-168;-216;-528;-48;-120;-96;-384;-504;-480;-216" keyTimes="0;0.07966206;0.15729882;0.21734434;0.3039696;0.34507368;0.43196898;0.50358769;0.58548723;0.67390633;0.73653653;0.80070982;0.8559139;0.92654888;1" dur="51844ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="192" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-480;-336;-240;-216;-384;-144;-288;-408;0" keyTimes="0;0.12902066;0.27749085;0.3130557;0.4478295;0.52353556;0.63457767;0.76640952;0.86911611;1" dur="30592ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="216" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-144">
+      <animate attributeName="y" calcMode="discrete" values="-144;-96;-288;-408;0;-120;-384;-72;-528;-144" keyTimes="0;0.07519247;0.2032893;0.33644888;0.413289;0.55088224;0.67011174;0.7695096;0.89967347;1" dur="33381ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="240" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-144">
+      <animate attributeName="y" calcMode="discrete" values="-144;-168;-48;-24;-48;-408;-432;-192;-360;-264;-384;-240;-120;-96;-144" keyTimes="0;0.06033325;0.12914698;0.25230042;0.28990301;0.31982094;0.44230291;0.55135538;0.60397911;0.72616265;0.78395921;0.81755782;0.87008207;0.93603581;1" dur="40210ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="264" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-360">
+      <animate attributeName="y" calcMode="discrete" values="-360;-384;-456;-48;-144;-216;-264;-120;-504;-72;-360" keyTimes="0;0.12141407;0.24449426;0.31689437;0.4359153;0.51028445;0.6258217;0.67283633;0.7736815;0.88679531;1" dur="33011ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="288" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-456">
+      <animate attributeName="y" calcMode="discrete" values="-456;-24;-360;-528;-432;-384;-336;-96;-144;-456" keyTimes="0;0.13476805;0.22462936;0.32553802;0.41850789;0.53032042;0.72735533;0.83347681;0.92659015;1" dur="20910ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="312" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-504">
+      <animate attributeName="y" calcMode="discrete" values="-504;-312;-192;-168;-144;-288;-72;-144;-48;-384;-192;-504" keyTimes="0;0.13960518;0.21860143;0.29454362;0.40578067;0.44548345;0.56616605;0.69068984;0.77239382;0.88577186;0.92922137;1" dur="31761ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="336" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-408">
+      <animate attributeName="y" calcMode="discrete" values="-408;-456;-408;-120;-504;-384;-192;-504;-24;-48;-336;-408" keyTimes="0;0.1440618;0.20413628;0.33905764;0.49127504;0.52568245;0.56218262;0.68454744;0.7636414;0.82743976;0.92536854;1" dur="32493ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="360" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-480">
+      <animate attributeName="y" calcMode="discrete" values="-480;-240;-312;-456;-384;-336;-480;-504;-456;-216;-528;-48;-168;-480" keyTimes="0;0.06613199;0.15108597;0.22927146;0.34269025;0.43564127;0.51971442;0.55545769;0.66259475;0.70448066;0.79237848;0.83176097;0.89100855;1" dur="43141ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="384" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-72">
+      <animate attributeName="y" calcMode="discrete" values="-72;-312;-192;-264;-360;-288;-96;-528;-192;-168;-432;-168;-72" keyTimes="0;0.13518567;0.24775762;0.31977678;0.40617057;0.46948316;0.54544658;0.59488123;0.67584071;0.74870716;0.83247144;0.93733018;1" dur="34227ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="408" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-168">
+      <animate attributeName="y" calcMode="discrete" values="-168;-72;-96;-336;-72;-96;-192;-96;-120;-264;-312;-456;-168" keyTimes="0;0.07543282;0.12585491;0.22761482;0.33827443;0.41851481;0.53017599;0.60080126;0.73132065;0.76989555;0.90361997;0.95801975;1" dur="34945ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="432" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="0">
+      <animate attributeName="y" calcMode="discrete" values="0;-216;-48;-312;-168;-456;-336;-480;-144;0" keyTimes="0;0.16995247;0.35007403;0.54313099;0.68553729;0.76163017;0.81329385;0.91015351;0.95110263;1" dur="25666ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="456" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-552">
+      <animate attributeName="y" calcMode="discrete" values="-552;-456;-120;-240;-144;-480;-96;-432;-240;-528;-336;-504;-312;-120;-552" keyTimes="0;0.0846958;0.17696772;0.26424262;0.30258371;0.37809147;0.4385161;0.50251002;0.55381569;0.64249528;0.67618477;0.76829549;0.85787316;0.97172201;1" dur="43426ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="480" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-96">
+      <animate attributeName="y" calcMode="discrete" values="-96;-456;-240;-456;-144;-528;-480;-240;-144;-432;-216;-384;-120;-432;-96" keyTimes="0;0.03002141;0.09634099;0.18348579;0.25720125;0.31162417;0.39159206;0.44647723;0.56741436;0.60536687;0.71781335;0.75939081;0.85050117;0.88302842;1" dur="41104ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="504" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;-456;-72;-504;-456;-552;0;-48;-144;-96;-552;-360;-48;-24" keyTimes="0;0.07438092;0.14854941;0.18114227;0.26656956;0.29873756;0.36152586;0.4512321;0.54797888;0.61537995;0.74159383;0.80729546;0.85830906;1" dur="32952ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="528" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-528">
+      <animate attributeName="y" calcMode="discrete" values="-528;-552;-432;-24;-216;-360;-528;0;-24;-384;-168;-72;-528" keyTimes="0;0.1340808;0.19508278;0.25901903;0.29472449;0.36242896;0.42506795;0.51847047;0.55843835;0.67460465;0.76701878;0.88911539;1" dur="32376ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="552" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-240">
+      <animate attributeName="y" calcMode="discrete" values="-240;-432;-360;-96;-480;-192;-264;-48;-264;-480;-288;-408;-240" keyTimes="0;0.06682245;0.1403928;0.24912041;0.36170771;0.45260726;0.5059602;0.5764848;0.66877593;0.73541459;0.80974636;0.91592711;1" dur="38086ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="576" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;0;-240;-144;-528;-504;-528;-288;-168;-528;-504;-96;-24" keyTimes="0;0.05702332;0.09233759;0.18121623;0.21692581;0.29289103;0.40094215;0.44314139;0.50296482;0.62939781;0.77849519;0.86862564;1" dur="30356ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="600" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-408">
+      <animate attributeName="y" calcMode="discrete" values="-408;-432;-336;-216;-312;-48;-144;0;-408;-72;-408" keyTimes="0;0.14682399;0.2006995;0.33303893;0.40733413;0.54461952;0.70137073;0.76301844;0.85628489;0.96128029;1" dur="28306ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="624" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-480">
+      <animate attributeName="y" calcMode="discrete" values="-480;-120;-144;-504;-24;-72;-456;-72;-192;-480;-384;-480" keyTimes="0;0.08571998;0.12077214;0.18838461;0.31081799;0.45949897;0.51225995;0.58701575;0.73958403;0.88042395;0.94082663;1" dur="30098ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="648" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-360">
+      <animate attributeName="y" calcMode="discrete" values="-360;-432;0;-336;-480;-264;-96;-384;-24;-432;-312;-360" keyTimes="0;0.04738233;0.09394664;0.23061918;0.34907501;0.46479361;0.51113768;0.63113516;0.73241253;0.86307576;0.9604518;1" dur="31784ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="672" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-552">
+      <animate attributeName="y" calcMode="discrete" values="-552;-504;-360;-24;-288;-192;-24;-384;-288;-552" keyTimes="0;0.17331918;0.23170559;0.31801132;0.46935598;0.64596603;0.68205945;0.72275301;0.86730361;1" dur="28260ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="696" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-384">
+      <animate attributeName="y" calcMode="discrete" values="-384;-528;0;-72;-408;-432;-504;-456;-432;-408;-144;-264;-216;-552;-384" keyTimes="0;0.07927412;0.15135977;0.23000553;0.34250741;0.44565928;0.51761926;0.56844116;0.60501181;0.69082089;0.78276278;0.8229528;0.85577841;0.93907405;1" dur="39786ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="720" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-240">
+      <animate attributeName="y" calcMode="discrete" values="-240;-120;-384;-288;-216;-552;-456;-168;-96;-240;-432;-96;0;-528;-240" keyTimes="0;0.04846012;0.10769702;0.21426213;0.29889638;0.33025987;0.38628968;0.45925105;0.5129227;0.57980003;0.65099278;0.76583502;0.86909871;0.952153;1" dur="42406ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="744" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-120">
+      <animate attributeName="y" calcMode="discrete" values="-120;0;-264;-552;-96;-168;-96;-528;0;-480;-120" keyTimes="0;0.14127298;0.23460428;0.33039648;0.45444326;0.53744493;0.68679933;0.79738721;0.83770317;0.91702871;1" dur="32915ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="768" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-264">
+      <animate attributeName="y" calcMode="discrete" values="-264;-216;-120;-72;-360;-552;-240;-48;-24;-48;-168;-96;-216;-504;-264" keyTimes="0;0.08470448;0.13903664;0.19257345;0.29375652;0.39317493;0.44181538;0.5480688;0.59815082;0.62979072;0.70413083;0.73691405;0.80518964;0.89963712;1" dur="40234ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="792" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-72">
+      <animate attributeName="y" calcMode="discrete" values="-72;-528;-120;-216;-240;-216;-24;-312;-96;-384;-264;-528;-216;-72" keyTimes="0;0.05880795;0.16174834;0.21766887;0.24908609;0.27933775;0.38744371;0.4727947;0.53430464;0.6437351;0.7407947;0.79099338;0.89284768;1" dur="37750ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="816" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-552">
+      <animate attributeName="y" calcMode="discrete" values="-552;-96;-408;-288;-24;-552;-96;-384;0;-552" keyTimes="0;0.14902587;0.21987557;0.42211035;0.54002947;0.61726424;0.76076457;0.84684021;0.89251801;1" dur="24432ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="840" y="168" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-216">
+      <animate attributeName="y" calcMode="discrete" values="-216;-48;-336;-24;-312;-288;-504;-48;-432;-24;-312;-216" keyTimes="0;0.06514898;0.16474724;0.27924339;0.40066957;0.54884499;0.60796786;0.7142618;0.81074657;0.85497154;0.90385002;1" dur="29870ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="0" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-384">
+      <animate attributeName="y" calcMode="discrete" values="-384;-312;-96;-360;-120;-288;-72;-360;-216;-384" keyTimes="0;0.14514563;0.3177589;0.36338997;0.4394822;0.58976537;0.77342233;0.86480583;0.93665049;1" dur="24720ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="24" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-264">
+      <animate attributeName="y" calcMode="discrete" values="-264;-120;-96;-528;-192;-288;-360;-48;-240;-264" keyTimes="0;0.13378368;0.28806584;0.44060098;0.54775215;0.64558584;0.71663173;0.80778787;0.91249321;1" dur="25758ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="48" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-528">
+      <animate attributeName="y" calcMode="discrete" values="-528;-192;-456;-408;-432;-240;-168;-480;-528;-144;-216;-48;-192;-456;-528" keyTimes="0;0.0643734;0.15831202;0.21171355;0.24493606;0.27058824;0.36186701;0.39590793;0.43644501;0.53774936;0.62409207;0.66048593;0.74910486;0.87248082;1" dur="39100ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="72" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-96">
+      <animate attributeName="y" calcMode="discrete" values="-96;0;-240;-216;-384;-312;0;-24;-240;-96" keyTimes="0;0.16492861;0.26882699;0.32131859;0.4205977;0.48432251;0.65880459;0.70296753;0.86352184;1" dur="28576ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="96" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-408">
+      <animate attributeName="y" calcMode="discrete" values="-408;-240;-360;-240;-192;-384;-120;-96;-504;-408" keyTimes="0;0.08967185;0.24497311;0.31006101;0.47099383;0.60243313;0.69863904;0.77683116;0.84718963;1" dur="27701ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="120" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-480">
+      <animate attributeName="y" calcMode="discrete" values="-480;-240;-264;-48;-96;-360;-168;-192;-264;0;-48;-552;-480" keyTimes="0;0.04793582;0.14617713;0.2594073;0.3184777;0.35550734;0.43296408;0.50379718;0.57214641;0.6235939;0.7404214;0.86210244;1" dur="35026ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="144" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-288">
+      <animate attributeName="y" calcMode="discrete" values="-288;-120;-336;-264;-24;-480;-360;-480;-192;-72;-456;-48;-288" keyTimes="0;0.1021345;0.17348341;0.27406178;0.31000856;0.34911949;0.44256555;0.53354773;0.63570817;0.70285551;0.8255829;0.92408642;1" dur="38557ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="168" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-456">
+      <animate attributeName="y" calcMode="discrete" values="-456;-48;-24;-192;-432;-528;-456;-264;-528;-72;-456" keyTimes="0;0.06332115;0.14821035;0.27030854;0.32734038;0.3657348;0.50907175;0.66538246;0.77167506;0.88926208;1" dur="30369ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="192" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-336">
+      <animate attributeName="y" calcMode="discrete" values="-336;-192;-432;-216;-384;-408;-480;-360;-120;-96;-528;-336" keyTimes="0;0.05382618;0.12133802;0.26256301;0.39288224;0.50059569;0.62083397;0.65437605;0.72616466;0.85950817;0.93480984;1" dur="32735ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="216" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-216">
+      <animate attributeName="y" calcMode="discrete" values="-216;-336;-24;-144;0;-336;-384;-480;-240;-216" keyTimes="0;0.14278507;0.19239825;0.27337706;0.35338883;0.51702825;0.68079381;0.79582913;0.85057181;1" dur="23784ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="240" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-72">
+      <animate attributeName="y" calcMode="discrete" values="-72;-456;-120;-144;-552;-504;-48;-96;-456;-528;0;-336;-288;-240;-72" keyTimes="0;0.04698234;0.17271603;0.27626142;0.30410865;0.34456347;0.4183139;0.49216961;0.54704814;0.64106546;0.71692154;0.80646435;0.89242755;0.95462322;1" dur="37993ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="264" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-264">
+      <animate attributeName="y" calcMode="discrete" values="-264;-24;-216;-480;-288;-528;-96;-288;-432;-288;-72;-336;-360;-264" keyTimes="0;0.13907605;0.19044776;0.23132907;0.37074627;0.39943141;0.45557925;0.51078891;0.59371713;0.62797441;0.7447619;0.83599147;0.91849325;1" dur="35175ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="288" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-216">
+      <animate attributeName="y" calcMode="discrete" values="-216;-120;-336;0;-120;-552;-504;-240;-552;-528;-384;-456;-528;-216" keyTimes="0;0.07549022;0.16026883;0.26453042;0.31744154;0.36431143;0.48918871;0.58239988;0.70375312;0.81564175;0.85259395;0.89296952;0.92954414;1" dur="39727ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="312" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-264">
+      <animate attributeName="y" calcMode="discrete" values="-264;-192;-360;-408;-120;-96;-192;-72;-96;-264" keyTimes="0;0.14921819;0.22581157;0.27180729;0.36276689;0.4717041;0.5280181;0.68076831;0.87542662;1" dur="25198ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="336" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-72">
+      <animate attributeName="y" calcMode="discrete" values="-72;-96;-192;-360;-456;-24;-216;-552;-528;-360;-504;-216;-72" keyTimes="0;0.10550645;0.17814691;0.30435335;0.42271157;0.47112161;0.54574317;0.63842324;0.68193132;0.74304074;0.79333029;0.89291883;1" dur="39372ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="360" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-360">
+      <animate attributeName="y" calcMode="discrete" values="-360;-216;-432;-480;-168;-24;-504;0;-120;-24;-360" keyTimes="0;0.10704707;0.14915516;0.27380314;0.3544656;0.40676546;0.54629878;0.62015556;0.77014885;0.86787582;1" dur="29828ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="384" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-48">
+      <animate attributeName="y" calcMode="discrete" values="-48;-144;-312;-360;-336;-552;-336;-48;-288;-432;-96;-504;-240;-48" keyTimes="0;0.05404854;0.14545031;0.25832581;0.40153259;0.46353544;0.53599837;0.60531453;0.73523499;0.76553713;0.81215582;0.8569389;0.94758311;1" dur="34321ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="408" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-408">
+      <animate attributeName="y" calcMode="discrete" values="-408;-456;-336;-264;-432;-48;-408;-552;-504;-168;-408" keyTimes="0;0.12412154;0.24750686;0.38103206;0.48286594;0.55859715;0.6354327;0.76477478;0.82146443;0.88109899;1" dur="29882ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="432" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;-216;-192;-96;0;-312;-408;-384;-408;-264;-504;-264;-504;-24" keyTimes="0;0.07451354;0.10556538;0.20631378;0.26776432;0.3042863;0.40669479;0.52997687;0.62264254;0.71315825;0.74274051;0.79727854;0.90442237;1" dur="36745ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="456" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-96">
+      <animate attributeName="y" calcMode="discrete" values="-96;-24;-72;-48;-96;-192;0;-72;-24;-216;-456;-48;-552;-288;-96" keyTimes="0;0.10794187;0.22093105;0.33640867;0.41258774;0.43923281;0.48587929;0.58806958;0.61497289;0.64373078;0.73638989;0.77064112;0.82339132;0.90203535;1" dur="42597ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="480" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;-48;-504;-480;-432;-120;-72;-144;-48;-288;-24" keyTimes="0;0.13155156;0.23054384;0.36138343;0.45342023;0.54312942;0.67999343;0.75642149;0.86568268;0.91185169;1" dur="36518ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="504" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-96">
+      <animate attributeName="y" calcMode="discrete" values="-96;-480;-168;-336;-480;-360;-552;-264;-552;-24;-480;-96" keyTimes="0;0.05313812;0.14030209;0.2730247;0.37071269;0.39816784;0.44645291;0.58184743;0.7162059;0.75372158;0.87507498;1" dur="36678ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="528" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-456">
+      <animate attributeName="y" calcMode="discrete" values="-456;-408;-432;-48;-360;-312;-168;-72;-432;-456" keyTimes="0;0.12211091;0.21337856;0.35075333;0.41918435;0.50165654;0.61887671;0.70501696;0.80732823;1" dur="25354ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="552" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-72">
+      <animate attributeName="y" calcMode="discrete" values="-72;-480;-264;-72;-24;-240;-312;-360;-264;-192;-72" keyTimes="0;0.06211466;0.17290239;0.21479723;0.28097116;0.43648757;0.61743193;0.70072378;0.83203768;0.90031785;1" dur="26113ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="576" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-312">
+      <animate attributeName="y" calcMode="discrete" values="-312;-144;0;-192;-528;-144;-480;-360;-384;-240;-552;-120;-504;-312" keyTimes="0;0.03714359;0.14999858;0.27834905;0.32853847;0.4542399;0.49431737;0.53348335;0.56333495;0.67727234;0.75267041;0.84501666;0.96727148;1" dur="35107ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="600" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-168">
+      <animate attributeName="y" calcMode="discrete" values="-168;-312;-168;-432;-288;-24;-216;-96;-192;-360;-24;-552;-360;-432;-168" keyTimes="0;0.12051007;0.17932931;0.25576755;0.29312275;0.32986956;0.42584931;0.54514261;0.62287063;0.71320452;0.75513482;0.79645673;0.89416431;0.95354327;1" dur="41092ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="624" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;-216;-144;-48;-312;0;-432;-144;-360;-552;-96;-168;-24" keyTimes="0;0.07062605;0.11214465;0.18538357;0.31349289;0.39504076;0.50846572;0.58246237;0.62061037;0.73082149;0.77837584;0.88814277;1" dur="38272ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="648" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-24">
+      <animate attributeName="y" calcMode="discrete" values="-24;-144;-96;-120;-264;-384;-216;0;-216;-168;-96;-144;-120;-168;-24" keyTimes="0;0.04892479;0.12256919;0.24395514;0.32688548;0.36125116;0.41099907;0.43934561;0.52847515;0.60124498;0.70516514;0.80157424;0.87694207;0.96427102;1" dur="38876ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="672" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-48">
+      <animate attributeName="y" calcMode="discrete" values="-48;-480;-168;-120;-552;-48;-216;-72;-120;-384;-192;-552;-48" keyTimes="0;0.05776877;0.16109586;0.26821948;0.32947695;0.4090501;0.50650283;0.57791858;0.68286176;0.78113537;0.86853244;0.91116641;1" dur="38983ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="696" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-528">
+      <animate attributeName="y" calcMode="discrete" values="-528;-192;-384;-216;-240;-120;-408;-192;-168;-504;-456;-432;-72;0;-528" keyTimes="0;0.03393097;0.08005985;0.17667943;0.25227601;0.2795628;0.39677428;0.465397;0.50465346;0.60335252;0.67628636;0.76976137;0.8478939;0.92174067;1" dur="39433ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="720" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-216">
+      <animate attributeName="y" calcMode="discrete" values="-216;-432;-504;-480;-72;-456;-24;-168;-480;-48;-480;-264;-216" keyTimes="0;0.08022687;0.16480749;0.26925068;0.33801657;0.450626;0.47637202;0.50908406;0.61077379;0.71665255;0.83370987;0.89642756;1" dur="42492ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="744" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-456">
+      <animate attributeName="y" calcMode="discrete" values="-456;-432;-504;-408;-240;-480;-408;-432;-192;-168;-480;-144;-504;-360;-456" keyTimes="0;0.07643283;0.11905089;0.21980743;0.31517652;0.37324622;0.48459422;0.52118294;0.60231545;0.63936268;0.73090326;0.77652453;0.88314993;0.95268226;1" dur="43620ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="768" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-384">
+      <animate attributeName="y" calcMode="discrete" values="-384;-360;-120;-192;-384;-216;-456;-384;-432;-288;-168;-384" keyTimes="0;0.03105023;0.1619863;0.29200913;0.34277968;0.39446347;0.47246005;0.59389269;0.65482306;0.79400685;0.88184932;1" dur="35040ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="792" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-168">
+      <animate attributeName="y" calcMode="discrete" values="-168;-336;-384;-360;-216;-456;-408;-552;-336;-480;-528;-120;-168" keyTimes="0;0.03643772;0.11327021;0.21026474;0.32306388;0.37942811;0.44613247;0.50390993;0.61972395;0.7140098;0.81218202;0.92922084;1" dur="42456ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="816" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-552">
+      <animate attributeName="y" calcMode="discrete" values="-552;-360;-216;-528;-384;-552;-240;-552;-48;-144;-24;-552" keyTimes="0;0.04520169;0.20668865;0.31431331;0.46250958;0.52626495;0.59674894;0.72272742;0.83488225;0.88777856;0.9650911;1" dur="30021ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+  <svg x="840" y="192" width="24" height="24" overflow="hidden">
+    <use href="#emojis" y="-288">
+      <animate attributeName="y" calcMode="discrete" values="-288;-360;-528;-384;-432;-72;0;-192;-504;-168;-288" keyTimes="0;0.13994316;0.24915626;0.36162591;0.46450352;0.57972645;0.72212683;0.80271182;0.85419504;0.96287524;1" dur="33778ms" repeatCount="indefinite"/>
+    </use>
+  </svg>
+</svg>
