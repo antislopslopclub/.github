@@ -1,1 +1,1 @@
-![assc](./emoji-grid.svg)
+![assc](./emoji-grid-transparent.svg)
