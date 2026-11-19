@@ -28,7 +28,6 @@
       <text x="12" y="564">💻</text>
     </g>
   </defs>
-  <rect width="864" height="216" fill="white"/>
   <svg x="0" y="0" width="24" height="24" overflow="hidden">
     <use href="#emojis" y="-432">
       <animate attributeName="y" calcMode="discrete" values="-432;-144;-336;-96;-456;-360;-24;-336;-120;0;-216;-72;-240;-408;-432" keyTimes="0;0.07453625;0.1421485;0.19689454;0.31098538;0.35746396;0.41662791;0.45308221;0.49511704;0.60042371;0.68676691;0.733323;0.75944298;0.88469488;1" dur="38706ms" repeatCount="indefinite"/>
